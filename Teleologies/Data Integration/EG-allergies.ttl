@@ -1,0 +1,684 @@
+<http://localhost:8080/source/1AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/1AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/1AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Nose running" .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/1AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/1AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/1AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/2AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/2AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/2AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible coniditon" .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/2AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/2AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/2AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/3AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/3AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/3AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/3AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/3AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/3AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/4AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/4AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/4AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/4AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/4AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/4AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/5AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/5AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/5AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/5AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Wheat (substance)" .
+<http://localhost:8080/source/5AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/5AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+
+<http://localhost:8080/source/6AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/6AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/6AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree nut (substance)" .
+<http://localhost:8080/source/6AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/6AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/6AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis (disorder)" .
+
+<http://localhost:8080/source/7AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> .
+<http://localhost:8080/source/febdc561-cc05-3074-7c1b-4fb34996c5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/7AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/7AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9d9e9f2b-2d09-0953-0575-894082d056e5> .
+<http://localhost:8080/source/7AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Peanut (substance)" .
+<http://localhost:8080/source/7AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2021-08-04T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/7AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic angioedema (disorder)" .
+
+<http://localhost:8080/source/8AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/8AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/8AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/8AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/8AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+<http://localhost:8080/source/8AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+
+<http://localhost:8080/source/9AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+<http://localhost:8080/source/9AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+<http://localhost:8080/source/9AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/9AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/9AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/10AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Cough (finding)" .
+<http://localhost:8080/source/10AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/10AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/10AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+<http://localhost:8080/source/10AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/10AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+
+<http://localhost:8080/source/11AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/11AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/11AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+<http://localhost:8080/source/11AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/11AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+<http://localhost:8080/source/11AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+
+<http://localhost:8080/source/12AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Cow's milk (substance)" .
+<http://localhost:8080/source/12AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/12AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+<http://localhost:8080/source/12AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/12AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/12AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+
+<http://localhost:8080/source/13AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree nut (substance)" .
+<http://localhost:8080/source/13AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Eruption of skin (disorder)" .
+<http://localhost:8080/source/13AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> .
+<http://localhost:8080/source/838b0c7f-8a41-1350-f72a-d8ea0d35bf3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/13AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2005-08-30T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/13AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/13AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/5aad8937-4a14-e5c7-8479-25fab888194b> .
+
+<http://localhost:8080/source/14AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Abdominal pain (finding)" .
+<http://localhost:8080/source/64352ca5-2241-e4f6-f5a1-2d8d64605931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/88b05113-46ea-f35b-de38-e4450bc90292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/14AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/64352ca5-2241-e4f6-f5a1-2d8d64605931> .
+<http://localhost:8080/source/14AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/14AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2017-10-13T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/14AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/88b05113-46ea-f35b-de38-e4450bc90292> .
+<http://localhost:8080/source/14AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Aspirin" .
+
+<http://localhost:8080/source/15AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/15AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/15AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/15AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Latex (substance)" .
+<http://localhost:8080/source/15AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/15AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+
+<http://localhost:8080/source/16AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/16AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/16AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Bee venom (substance)" .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/16AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/16AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/16AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Eruption of skin (disorder)" .
+
+<http://localhost:8080/source/17AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/17AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/17AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/17AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/17AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/17AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/18AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/18AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/18AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/18AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/18AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/18AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+
+<http://localhost:8080/source/19AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/19AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/19AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/19AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/19AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/19AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/20AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/20AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/20AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+<http://localhost:8080/source/20AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/20AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/20AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/21AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/21AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/21AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/21AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/21AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/21AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+
+<http://localhost:8080/source/22AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> .
+<http://localhost:8080/source/22AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Penicillin V" .
+<http://localhost:8080/source/22AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1947-06-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/22AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> .
+<http://localhost:8080/source/c8db643d-a1cb-7f89-aed8-53f7ecfc8c07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/977cfd07-9b87-7699-4651-09e8b1a48a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/22AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/22AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Eruption of skin (disorder)" .
+
+<http://localhost:8080/source/23AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/23AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/23AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/23AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic skin rash" .
+<http://localhost:8080/source/23AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+<http://localhost:8080/source/23AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/24AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/24AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+<http://localhost:8080/source/24AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/24AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/24AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/24AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/25AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+<http://localhost:8080/source/25AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/25AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/25AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/25AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/25AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/26AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/26AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+<http://localhost:8080/source/26AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/26AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/26AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/26AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+
+<http://localhost:8080/source/27AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/27AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Wheat (substance)" .
+<http://localhost:8080/source/27AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/27AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+<http://localhost:8080/source/27AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/27AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/28AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/28AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2015-04-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/28AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree nut (substance)" .
+<http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/28AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> .
+<http://localhost:8080/source/28AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis (disorder)" .
+<http://localhost:8080/source/e27224aa-66ff-f34a-7032-1d67c63d13e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/28AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/841d4a99-1f35-07ef-2c86-f6d5124518a4> .
+
+<http://localhost:8080/source/29AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/29AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/29AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/29AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/29AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/29AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/30AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/30AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/30AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/30AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/30AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/30AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/31AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/31AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/31AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/31AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/31AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/31AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+
+<http://localhost:8080/source/32AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+<http://localhost:8080/source/32AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/32AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/32AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/32AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/32AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+
+<http://localhost:8080/source/33AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/33AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/33AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/33AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/33AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/33AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+
+<http://localhost:8080/source/34AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Lisinopril" .
+<http://localhost:8080/source/34AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Cough (finding)" .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/34AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/34AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/34AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/34AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+
+<http://localhost:8080/source/35AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Wheal (finding)" .
+<http://localhost:8080/source/35AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/35AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/35AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/35AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Aspirin" .
+<http://localhost:8080/source/35AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/36AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/36AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis (disorder)" .
+<http://localhost:8080/source/36AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1981-12-22T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/36AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> .
+<http://localhost:8080/source/36AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree nut (substance)" .
+<http://localhost:8080/source/c015a447-a062-42f5-8584-13e46820856b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/36AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> .
+<http://localhost:8080/source/d5f53e31-63a5-629a-c9ff-429f3c11af9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/37AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/37AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/37AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Latex (substance)" .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/37AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Wheal (finding)" .
+<http://localhost:8080/source/37AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/37AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+
+<http://localhost:8080/source/38AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/38AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Bee venom (substance)" .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/38AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/38AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Eruption of skin (disorder)" .
+<http://localhost:8080/source/38AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/38AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/39AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/39AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/39AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/39AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/39AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/39AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+
+<http://localhost:8080/source/40AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/40AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/40AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/40AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/40AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/40AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/41AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/41AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/41AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/41AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/41AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/41AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/42AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/42AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/42AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/42AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/42AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/42AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+
+<http://localhost:8080/source/43AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/43AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/43AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/43AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/43AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/43AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+
+<http://localhost:8080/source/44AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/44AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/44AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/44AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Lisinopril" .
+<http://localhost:8080/source/44AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/44AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+
+<http://localhost:8080/source/45AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> .
+<http://localhost:8080/source/a43ba4e0-f4cf-b4a7-d737-65e93be70104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/45AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/45AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/45AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> .
+<http://localhost:8080/source/a7cce9be-5301-9427-ab60-251d95834b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/45AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Eggs (edible) (substance)" .
+<http://localhost:8080/source/45AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2007-11-20T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/46AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Latex (substance)" .
+<http://localhost:8080/source/46AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Wheal (finding)" .
+<http://localhost:8080/source/46AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> .
+<http://localhost:8080/source/46AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/46AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> .
+<http://localhost:8080/source/46AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2003-09-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/47AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> .
+<http://localhost:8080/source/47AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/47AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> .
+<http://localhost:8080/source/47AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2003-09-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/47AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/47AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic skin rash" .
+
+<http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/48AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/48AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> .
+<http://localhost:8080/source/48AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/48AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2003-09-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/48AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Rhinoconjunctivitis (disorder)" .
+<http://localhost:8080/source/48AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> .
+
+<http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/49AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/49AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Wheat (substance)" .
+<http://localhost:8080/source/49AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> .
+<http://localhost:8080/source/49AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/49AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2003-09-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/49AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> .
+
+<http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/50AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2003-09-26T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/50AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/50AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7495d723-0e21-ab68-1daa-ca4108b04067> .
+<http://localhost:8080/source/50AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Shellfish (substance)" .
+<http://localhost:8080/source/50AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/9c17710a-1d93-ea9d-6d92-abf1eac51045> .
+<http://localhost:8080/source/50AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic angioedema (disorder)" .
+
+<http://localhost:8080/source/51AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/5513f689-1261-9da0-c7ea-79f059bb3c45> .
+<http://localhost:8080/source/51AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/5513f689-1261-9da0-c7ea-79f059bb3c45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/51AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/8e45e429-cfb5-11b4-09bc-ff59bec9da68> .
+<http://localhost:8080/source/51AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Shellfish (substance)" .
+<http://localhost:8080/source/8e45e429-cfb5-11b4-09bc-ff59bec9da68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/51AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic angioedema (disorder)" .
+<http://localhost:8080/source/51AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1999-03-25T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/52AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Penicillin V" .
+<http://localhost:8080/source/52AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/52AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5> .
+<http://localhost:8080/source/526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/52AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/4eba3689-09c7-8516-f76e-88090cb7d3db> .
+<http://localhost:8080/source/52AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/4eba3689-09c7-8516-f76e-88090cb7d3db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/52AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2002-04-15T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/285322a5-6f4d-7e9a-8d36-31146329c6fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/53AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1978-08-21T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/53AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/53AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic skin rash" .
+<http://localhost:8080/source/7a51c596-9735-1334-5d7c-d66f0c37a5e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/53AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/7a51c596-9735-1334-5d7c-d66f0c37a5e6> .
+<http://localhost:8080/source/53AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/53AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/285322a5-6f4d-7e9a-8d36-31146329c6fc> .
+
+<http://localhost:8080/source/54AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Nose running" .
+<http://localhost:8080/source/54AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> .
+<http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/54AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/54AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/54AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-10-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/54AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> .
+<http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/55AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/55AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "House dust mite (organism)" .
+<http://localhost:8080/source/55AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-10-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/55AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> .
+<http://localhost:8080/source/55AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> .
+<http://localhost:8080/source/55AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/56AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/56AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Animal dander (substance)" .
+<http://localhost:8080/source/56AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> .
+<http://localhost:8080/source/56AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> .
+<http://localhost:8080/source/56AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-10-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/56AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Wheal (finding)" .
+<http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/57AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> .
+<http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/57AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/57AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-10-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/57AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/57AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+<http://localhost:8080/source/57AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> .
+<http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/58AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> .
+<http://localhost:8080/source/58AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-10-09T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/58AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Tree pollen (substance)" .
+<http://localhost:8080/source/58AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/51580962-89c9-bcac-872a-a151acf7a9a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/58AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> .
+<http://localhost:8080/source/58AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/cce2cd36-267d-a405-8222-0c4511ae8ac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/59AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> .
+<http://localhost:8080/source/59AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Bee venom (substance)" .
+<http://localhost:8080/source/59AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> .
+<http://localhost:8080/source/59AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/59AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/59AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/60AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/60AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/60AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Mold (organism)" .
+<http://localhost:8080/source/60AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/60AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> .
+<http://localhost:8080/source/60AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> .
+
+<http://localhost:8080/source/61AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> .
+<http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/61AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/61AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Grass pollen (substance)" .
+<http://localhost:8080/source/61AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/61AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> .
+<http://localhost:8080/source/61AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Encounter_GID-45306> .
+<http://localhost:8080/source/62AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> .
+<http://localhost:8080/source/62AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/62AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Penicillin V" .
+<http://localhost:8080/source/62AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "1985-06-12T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/67f2d0f0-a02d-8178-a01f-924f38a95a3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/62AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "no visible condition" .
+<http://localhost:8080/source/62AA> <http://knowdive.disi.unitn.it/etype#has_been_identified_during_GID-45306_Type-74736> <http://localhost:8080/source/b0d95734-10bd-9615-40a4-94262a4d6911> .
+
+<http://localhost:8080/source/63AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/63AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/621799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/63AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/621799> .
+<http://localhost:8080/source/63AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+<http://localhost:8080/source/63AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/64AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis" .
+<http://localhost:8080/source/64AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "peanut" .
+<http://localhost:8080/source/621799> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/64AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/621799> .
+<http://localhost:8080/source/64AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/64AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/65AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/65AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/897185> .
+<http://localhost:8080/source/65AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/65AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/897185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/65AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+
+<http://localhost:8080/source/66AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/66AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/66AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis" .
+<http://localhost:8080/source/897185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/66AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/897185> .
+<http://localhost:8080/source/66AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "peanut" .
+
+<http://localhost:8080/source/67AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/67AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/1137192> .
+<http://localhost:8080/source/67AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/67AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/1137192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/67AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+
+<http://localhost:8080/source/68AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/68AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/68AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/1288992> .
+<http://localhost:8080/source/68AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+<http://localhost:8080/source/1288992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/68AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/69AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/1551992> .
+<http://localhost:8080/source/69AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/69AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+<http://localhost:8080/source/69AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/1551992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/69AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/70AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/70AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/1685497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/70AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+<http://localhost:8080/source/70AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/1685497> .
+<http://localhost:8080/source/70AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/71AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/71AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis" .
+<http://localhost:8080/source/1685497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/71AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "peanut" .
+<http://localhost:8080/source/71AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/71AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/1685497> .
+
+<http://localhost:8080/source/72AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/2169591> .
+<http://localhost:8080/source/72AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/72AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/72AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "sulfonamide antibacterial" .
+<http://localhost:8080/source/72AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "skin rash" .
+<http://localhost:8080/source/2169591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/2169591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/73AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis" .
+<http://localhost:8080/source/73AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/2169591> .
+<http://localhost:8080/source/73AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "peanut" .
+<http://localhost:8080/source/73AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2000-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/73AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+
+<http://localhost:8080/source/8888801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/74AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Erythromycin" .
+<http://localhost:8080/source/74AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Pruritic rash " .
+<http://localhost:8080/source/74AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/74AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888801> .
+<http://localhost:8080/source/74AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/75AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/75AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "lisinopril 20mg" .
+<http://localhost:8080/source/75AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/8888802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/75AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888802> .
+<http://localhost:8080/source/75AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Cough" .
+
+<http://localhost:8080/source/76AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/76AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888802> .
+<http://localhost:8080/source/76AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/8888802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/76AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "dust" .
+<http://localhost:8080/source/76AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic asthma" .
+
+<http://localhost:8080/source/77AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/77AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "tree pollens" .
+<http://localhost:8080/source/77AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic asthma" .
+<http://localhost:8080/source/77AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888802> .
+<http://localhost:8080/source/8888802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/77AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://localhost:8080/source/78AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "shrimp" .
+<http://localhost:8080/source/78AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/8888802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/78AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888802> .
+<http://localhost:8080/source/78AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/78AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Anaphylaxis" .
+
+<http://localhost:8080/source/79AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Latex" .
+<http://localhost:8080/source/79AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/79AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/79AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Allergic contact dermatitis" .
+<http://localhost:8080/source/79AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888803> .
+<http://localhost:8080/source/8888803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+
+<http://localhost:8080/source/80AA> <http://knowdive.disi.unitn.it/etype#has_condition_start_GID-80737_Type-74736> "2013-12-28T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://localhost:8080/source/80AA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Allergy_GID-77258> .
+<http://localhost:8080/source/80AA> <http://knowdive.disi.unitn.it/etype#has_alergy_description_GID-300005_Type-77258> "Ciprofloxacin" .
+<http://localhost:8080/source/8888803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://knowdive.disi.unitn.it/etype#Patient_GID-55936> .
+<http://localhost:8080/source/80AA> <http://knowdive.disi.unitn.it/etype#has_patient_of_condition_GID-55936_Type-74736> <http://localhost:8080/source/8888803> .
+<http://localhost:8080/source/80AA> <http://knowdive.disi.unitn.it/etype#has_condition_description_GID-300008_Type-74736> "Vomiting" .
+

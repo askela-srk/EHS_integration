@@ -1,0 +1,95 @@
+@prefix :      <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix schema: <http://schema.org/> .
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix gsp:   <http://www.opengis.net/ont/geosparql#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix hydra: <http://www.w3.org/ns/hydra/core#> .
+@prefix geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix oa:    <http://www.w3.org/ns/oa#> .
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix sh:    <http://www.w3.org/ns/shacl#> .
+@prefix dcat:  <http://www.w3.org/ns/dcat#> .
+@prefix locn:  <http://www.w3.org/ns/locn#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix epos:  <https://www.epos-eu.org/epos-dcat-ap#> .
+@prefix adms:  <http://www.w3.org/ns/adms#> .
+@prefix org:   <http://www.w3.org/ns/org#> .
+@prefix cnt:   <http://www.w3.org/2011/content#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix http:  <http://www.w3.org/2006/http#> .
+@prefix dash:  <http://datashapes.org/dash#> .
+@prefix dc:    <http://purl.org/dc/elements/1.1/> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/4f6c2e69-eb7a-4bf8-a3a8-f732b91cd1c3>
+        rdf:type           dcat:Dataset ;
+        dct:accessRights   "not required" ;
+        dct:created        "2021-12-01T16:43:36Z"^^xsd:dateTime ;
+        dct:description    "The database was created by Uri Kartoun, PhD, in 2015 to allow non-commercial entities to use the artificial patient repositories to practice statistical analysis and machine-learning algorithms. The database contains the same characteristics that exist in a real medical database such as patients’ admission details, demographics, socioeconomic details, medications, while relying only minimally on real patient data." ;
+        dct:issued         "2021-12-01T16:43:35Z"^^xsd:dateTime ;
+        dct:language       "English" ;
+        dct:modified       "2021-12-01T16:43:35Z"^^xsd:dateTime ;
+        dct:title          "EMRBOTS" ;
+        dcat:contactPoint  "Uri Kartoun" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/b7ca29c8-e9c5-4359-b145-cc733d409e3f> ;
+        dcat:keyword       "synthetic electonic healthcare records" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/45d3108b-c01a-486b-aa3a-7d9010a9edba>
+        rdf:type        dcat:Distribution ;
+        dct:format      "comma separated value" ;
+        dct:identifier  "FIHR Smart" ;
+        dct:modified    "2021-12-01T19:22:48Z"^^xsd:dateTime ;
+        dct:type        "textualdatatables"^^xsd:anyURI ;
+        dcat:accessURL  "https://github.com/smart-on-fhir/sample-patients" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/83679c0e-c898-49d6-8368-4cdb8894af19>
+        rdf:type        dcat:Distribution ;
+        dct:format      "comma separated values" ;
+        dct:identifier  "Synthea" ;
+        dct:type        "textualdatatables"^^xsd:anyURI ;
+        dcat:accessURL  "https://synthetichealth.github.io/synthea/" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/1bab36e8-6364-4243-8f47-1eed84f3bfb1>
+        rdf:type           dcat:Dataset ;
+        dct:created        "2021-12-01T19:20:34Z"^^xsd:dateTime ;
+        dct:description    "This tool is provided by SMART corporation. This generator creates syntetic data about 67 patients, it uses a python script that select the data files in a directory to generate FHIR test patients." ;
+        dct:identifier     "FIHR Smart" ;
+        dct:language       "Enslish" ;
+        dct:title          "FIHR Smart" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/45d3108b-c01a-486b-aa3a-7d9010a9edba> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/02d9e437-8a50-4afe-b9c1-7cf35b4640ff>
+        rdf:type           dcat:Dataset ;
+        dct:description    "This synthetic data generation tool was developed by the MITRE corporation in2016. It is an open-source Synthetic Patient Population Simulator. The goal is to output synthetic, realistic patient data and associated health records in a variety of formats. It is one of the most popular datasets in this domain and it is used for various purposes suchas machine learning, deterministic predictive model tuning, and data integration projects." ;
+        dct:identifier     "Synthea" ;
+        dct:issued         "2021-12-01T19:17:03Z"^^xsd:dateTime ;
+        dct:language       "English" ;
+        dct:modified       "2021-12-01T19:17:02Z"^^xsd:dateTime ;
+        dct:title          "Synthea" ;
+        dcat:contactPoint  "MITRE" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/83679c0e-c898-49d6-8368-4cdb8894af19> ;
+        dcat:keyword       "synthetic electonic data" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Dataset/93ec647c-23a3-4d10-b275-9b6476e7d828>
+        rdf:type           dcat:Dataset ;
+        dct:description    "It is the first resource utilized, it provides a detailed classification, ontology, and description for entities of our interest. FHIR is a standard for healthcare data exchange, a platform specification that defines a set of capabilities use across the healthcare process and in lots of different contexts" ;
+        dct:identifier     "FIHR Schema" ;
+        dct:title          "FIHR Schema" ;
+        dcat:distribution  <https://www.epos-eu.org/epos-dcat-ap#Distribution/be4070c1-fc02-4647-921a-300c38f40db4> .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/be4070c1-fc02-4647-921a-300c38f40db4>
+        rdf:type        dcat:Distribution ;
+        dct:format      "owl formal" ;
+        dct:identifier  "FIHR Schema" ;
+        dcat:accessURL  "https://hl7.org/FHIR/" .
+
+<https://www.epos-eu.org/epos-dcat-ap#Distribution/b7ca29c8-e9c5-4359-b145-cc733d409e3f>
+        rdf:type        dcat:Distribution ;
+        dct:format      "tab separated value" ;
+        dct:identifier  "EMRBOTS" ;
+        dct:modified    "2021-12-01T19:10:01Z"^^xsd:dateTime ;
+        dct:type        "textualdatatables"^^xsd:anyURI ;
+        dcat:accessURL  "http://www.emrbots.org/" .

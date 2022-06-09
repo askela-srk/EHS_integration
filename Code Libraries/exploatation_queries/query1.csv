@@ -1,0 +1,86 @@
+person,first_name,last_name,description,condition
+http://localhost:8080/source/f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,Jerry654,Beier427,Acute viral pharyngitis (disorder),http://localhost:8080/source/2110CC
+http://localhost:8080/source/f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,Jerry654,Beier427,Acute viral pharyngitis (disorder),http://localhost:8080/source/2116CC
+http://localhost:8080/source/f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,Jerry654,Beier427,Stress (finding),http://localhost:8080/source/2122CC
+http://localhost:8080/source/f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,Jerry654,Beier427,Normal pregnancy,http://localhost:8080/source/2123CC
+http://localhost:8080/source/f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,Jerry654,Beier427,Normal pregnancy,http://localhost:8080/source/2124CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1689CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Limited social contact (finding),http://localhost:8080/source/1690CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1691CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1692CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Miscarriage in first trimester,http://localhost:8080/source/1693CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Body mass index 30+ - obesity (finding),http://localhost:8080/source/1694CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Social isolation (finding),http://localhost:8080/source/1695CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Sprain of ankle,http://localhost:8080/source/1696CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1697CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Victim of intimate partner abuse (finding),http://localhost:8080/source/1698CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Viral sinusitis (disorder),http://localhost:8080/source/1699CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Acute viral pharyngitis (disorder),http://localhost:8080/source/1700CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1701CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Acute viral pharyngitis (disorder),http://localhost:8080/source/1702CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Stress (finding),http://localhost:8080/source/1703CC
+http://localhost:8080/source/2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,Aida517,Murray856,Malignant neoplasm of breast (disorder),http://localhost:8080/source/1704CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Body mass index 30+ - obesity (finding),http://localhost:8080/source/1272CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Limited social contact (finding),http://localhost:8080/source/1273CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Not in labor force (finding),http://localhost:8080/source/1274CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Viral sinusitis (disorder),http://localhost:8080/source/1275CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Stress (finding),http://localhost:8080/source/1276CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Acute bronchitis (disorder),http://localhost:8080/source/1277CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Part-time employment (finding),http://localhost:8080/source/1278CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Social isolation (finding),http://localhost:8080/source/1279CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Viral sinusitis (disorder),http://localhost:8080/source/1280CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Viral sinusitis (disorder),http://localhost:8080/source/1281CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Part-time employment (finding),http://localhost:8080/source/1282CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Acute viral pharyngitis (disorder),http://localhost:8080/source/1283CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Lack of access to transportation (finding),http://localhost:8080/source/1284CC
+http://localhost:8080/source/1892efd3-5aaf-15b0-607e-0ca946759243,Alfredo17,Vargas494,Acute bronchitis (disorder),http://localhost:8080/source/1285CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Cerebral palsy (disorder),http://localhost:8080/source/2299CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Pain (finding),http://localhost:8080/source/2300CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Poor muscle tone (finding),http://localhost:8080/source/2301CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Epilepsy (disorder),http://localhost:8080/source/2302CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Intellectual disability (disorder),http://localhost:8080/source/2303CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Gastroesophageal reflux disease (disorder),http://localhost:8080/source/2304CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Pneumonia (disorder),http://localhost:8080/source/2305CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Otitis media,http://localhost:8080/source/2306CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Child attention deficit disorder,http://localhost:8080/source/2307CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Concussion with no loss of consciousness,http://localhost:8080/source/2308CC
+http://localhost:8080/source/32985852-4c23-32ba-baa6-1b0d7c7ea1c6,Julienne688,Grant908,Viral sinusitis (disorder),http://localhost:8080/source/2309CC
+http://localhost:8080/source/4a96bc8c-593a-6a06-004a-954998952024,Faustino767,Haley279,Whiplash injury to neck,http://localhost:8080/source/935CC
+http://localhost:8080/source/4a96bc8c-593a-6a06-004a-954998952024,Faustino767,Haley279,Viral sinusitis (disorder),http://localhost:8080/source/936CC
+http://localhost:8080/source/4a96bc8c-593a-6a06-004a-954998952024,Faustino767,Haley279,Acute bacterial sinusitis (disorder),http://localhost:8080/source/937CC
+http://localhost:8080/source/4a96bc8c-593a-6a06-004a-954998952024,Faustino767,Haley279,Chronic sinusitis (disorder),http://localhost:8080/source/938CC
+http://localhost:8080/source/4a96bc8c-593a-6a06-004a-954998952024,Faustino767,Haley279,Acute viral pharyngitis (disorder),http://localhost:8080/source/939CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Chronic pain,http://localhost:8080/source/1536CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Fracture of ankle,http://localhost:8080/source/1537CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Chronic intractable migraine without aura,http://localhost:8080/source/1538CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Impacted molars,http://localhost:8080/source/1539CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Acute bronchitis (disorder),http://localhost:8080/source/1540CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Hypertension,http://localhost:8080/source/1550CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Stress (finding),http://localhost:8080/source/1551CC
+http://localhost:8080/source/57a4f32e-fd14-aad9-1d27-d196e33c83bd,Charlena802,Kutch271,Limited social contact (finding),http://localhost:8080/source/1558CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Chronic sinusitis (disorder),http://localhost:8080/source/1768CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Hypertension,http://localhost:8080/source/1769CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Social isolation (finding),http://localhost:8080/source/1770CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Lack of access to transportation (finding),http://localhost:8080/source/1771CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Stress (finding),http://localhost:8080/source/1772CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Has a criminal record (finding),http://localhost:8080/source/1773CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Social isolation (finding),http://localhost:8080/source/1776CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Normal pregnancy,http://localhost:8080/source/1778CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Part-time employment (finding),http://localhost:8080/source/1779CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Stress (finding),http://localhost:8080/source/1780CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Social isolation (finding),http://localhost:8080/source/1781CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Acute bronchitis (disorder),http://localhost:8080/source/1782CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Stress (finding),http://localhost:8080/source/1783CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Not in labor force (finding),http://localhost:8080/source/1784CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Normal pregnancy,http://localhost:8080/source/1785CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Second degree burn,http://localhost:8080/source/1786CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Acute viral pharyngitis (disorder),http://localhost:8080/source/1787CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Not in labor force (finding),http://localhost:8080/source/1788CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Streptococcal sore throat (disorder),http://localhost:8080/source/1791CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Not in labor force (finding),http://localhost:8080/source/1792CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Stress (finding),http://localhost:8080/source/1793CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Normal pregnancy,http://localhost:8080/source/1796CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Acute bronchitis (disorder),http://localhost:8080/source/1799CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Normal pregnancy,http://localhost:8080/source/1800CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Part-time employment (finding),http://localhost:8080/source/1802CC
+http://localhost:8080/source/a0395087-7768-7858-ad08-c588d10ae2ea,Ellan282,Mayer370,Acute bronchitis (disorder),http://localhost:8080/source/1803CC

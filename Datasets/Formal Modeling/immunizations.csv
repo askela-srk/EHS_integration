@@ -1,0 +1,1103 @@
+DATE,PATIENT,ENCOUNTER,disease,dataset
+2020-11-30T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,3bdb5673-430f-b78d-d5dc-e9b4aa564967,Hep B  adolescent or pediatric,synthea
+2021-01-04T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,9940b2f3-20fa-f07e-a836-bac1929813d3,Hep B  adolescent or pediatric,synthea
+2021-03-08T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,65335ef7-4a1e-2ff4-b79e-38f36ceaf48b,Hib (PRP-OMP),synthea
+2021-03-08T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,65335ef7-4a1e-2ff4-b79e-38f36ceaf48b,rotavirus  monovalent,synthea
+2021-03-08T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,65335ef7-4a1e-2ff4-b79e-38f36ceaf48b,IPV,synthea
+2021-03-08T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,65335ef7-4a1e-2ff4-b79e-38f36ceaf48b,DTaP,synthea
+2021-03-08T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,65335ef7-4a1e-2ff4-b79e-38f36ceaf48b,Pneumococcal conjugate PCV 13,synthea
+2021-05-10T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,e4d1f194-04f0-ddfd-4a61-7fc3f99700f4,Hib (PRP-OMP),synthea
+2021-05-10T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,e4d1f194-04f0-ddfd-4a61-7fc3f99700f4,rotavirus  monovalent,synthea
+2021-05-10T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,e4d1f194-04f0-ddfd-4a61-7fc3f99700f4,IPV,synthea
+2021-05-10T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,e4d1f194-04f0-ddfd-4a61-7fc3f99700f4,DTaP,synthea
+2021-05-10T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,e4d1f194-04f0-ddfd-4a61-7fc3f99700f4,Pneumococcal conjugate PCV 13,synthea
+2018-08-23T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,4ab7175a-9859-ccfd-8e4c-7befe4693aa5,Hep B  adolescent or pediatric,synthea
+2018-09-27T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,621484ce-f810-ccfd-d65d-0a4026f11b5e,Hep B  adolescent or pediatric,synthea
+2018-11-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,0ad1e195-548b-c464-52ad-454319c1ac3d,Hib (PRP-OMP),synthea
+2018-11-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,0ad1e195-548b-c464-52ad-454319c1ac3d,rotavirus  monovalent,synthea
+2018-11-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,0ad1e195-548b-c464-52ad-454319c1ac3d,IPV,synthea
+2018-11-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,0ad1e195-548b-c464-52ad-454319c1ac3d,DTaP,synthea
+2018-11-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,0ad1e195-548b-c464-52ad-454319c1ac3d,Pneumococcal conjugate PCV 13,synthea
+2019-01-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,054ffb4f-284e-f974-ee96-a63e1d3f1ac2,Hib (PRP-OMP),synthea
+2019-01-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,054ffb4f-284e-f974-ee96-a63e1d3f1ac2,rotavirus  monovalent,synthea
+2021-08-09T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,b5514369-6c77-91b6-de6f-2955cbce2aa9,IPV,synthea
+2019-01-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,054ffb4f-284e-f974-ee96-a63e1d3f1ac2,IPV,synthea
+2021-08-09T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,b5514369-6c77-91b6-de6f-2955cbce2aa9,Influenza  seasonal  injectable  preservative free,synthea
+2019-01-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,054ffb4f-284e-f974-ee96-a63e1d3f1ac2,DTaP,synthea
+2021-08-09T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,b5514369-6c77-91b6-de6f-2955cbce2aa9,DTaP,synthea
+2019-01-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,054ffb4f-284e-f974-ee96-a63e1d3f1ac2,Pneumococcal conjugate PCV 13,synthea
+2021-08-09T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,b5514369-6c77-91b6-de6f-2955cbce2aa9,Pneumococcal conjugate PCV 13,synthea
+2021-08-09T18:41:45Z,febdc561-cc05-3074-7c1b-4fb34996c5f4,b5514369-6c77-91b6-de6f-2955cbce2aa9,Hep B  adolescent or pediatric,synthea
+2019-05-02T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,95b0eea4-e560-e594-ef0a-c272f15b47da,IPV,synthea
+2019-05-02T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,95b0eea4-e560-e594-ef0a-c272f15b47da,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-02T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,95b0eea4-e560-e594-ef0a-c272f15b47da,DTaP,synthea
+2019-05-02T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,95b0eea4-e560-e594-ef0a-c272f15b47da,Pneumococcal conjugate PCV 13,synthea
+2019-05-02T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,95b0eea4-e560-e594-ef0a-c272f15b47da,Hep B  adolescent or pediatric,synthea
+2019-10-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,71c02b2d-e957-4999-2ced-e2d805fcd7a1,Hib (PRP-OMP),synthea
+2019-10-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,71c02b2d-e957-4999-2ced-e2d805fcd7a1,varicella,synthea
+2019-10-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,71c02b2d-e957-4999-2ced-e2d805fcd7a1,MMR,synthea
+2019-10-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,71c02b2d-e957-4999-2ced-e2d805fcd7a1,Pneumococcal conjugate PCV 13,synthea
+2019-10-31T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,71c02b2d-e957-4999-2ced-e2d805fcd7a1,Hep A  ped/adol  2 dose,synthea
+2020-01-30T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,7beaa71c-09c5-aea0-46ee-b02bb753e0ed,DTaP,synthea
+2020-07-30T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,3b8aa90d-d99b-5a21-ea22-a912f1d5452c,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-28T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,86b25b09-98a1-6917-e261-1b44a278221b,Hep A  ped/adol  2 dose,synthea
+2021-07-29T09:34:49Z,4a96bc8c-593a-6a06-004a-954998952024,d7d368e7-1b5e-7571-cce9-71b3b7871bb7,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-13T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,bbe11ec1-a9d9-a81c-7599-f1675fc0574c,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-13T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,bbe11ec1-a9d9-a81c-7599-f1675fc0574c,Td (adult) preservative free,synthea
+2014-02-13T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,bbe11ec1-a9d9-a81c-7599-f1675fc0574c,Hep B  adult,synthea
+2014-02-13T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,bbe11ec1-a9d9-a81c-7599-f1675fc0574c,meningococcal MCV4P,synthea
+2015-02-19T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,2e3a3709-1343-76a8-1e2a-4ab67a024f9e,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-19T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,2e3a3709-1343-76a8-1e2a-4ab67a024f9e,Hep B  adult,synthea
+2016-02-25T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,ca79c883-e7eb-128b-9782-32187432a7f5,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-25T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,ca79c883-e7eb-128b-9782-32187432a7f5,Hep B  adult,synthea
+2017-03-02T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,7b42060d-46f7-3845-5cb1-999d51b11094,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-08T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,ccdd4781-f201-6404-7edc-ab0674fcde6a,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-14T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,2f0d30fd-5fa7-831a-7b1d-73f819e09c58,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-14T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,f21a809a-481b-5e77-209d-f26b5201c659,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-19T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,cc5e503e-c7d5-ebc1-a417-ca41726b78d9,Influenza  seasonal  injectable  preservative free,synthea
+2012-10-06T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,1b7b4e0c-30b7-149d-f43a-4fab4824a39d,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-17T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,4aeaa358-768e-1fa0-6e0a-229eed8c0328,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-04T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,e0f7bf4c-a8e8-255c-159a-d801aeaaeb66,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-04T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,e0f7bf4c-a8e8-255c-159a-d801aeaaeb66,Hep A  adult,synthea
+2019-11-09T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,4943d4e1-a2b9-2de4-0401-9c87f775cd1b,Influenza  seasonal  injectable  preservative free,synthea
+2019-11-09T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,4943d4e1-a2b9-2de4-0401-9c87f775cd1b,Td (adult) preservative free,synthea
+2019-11-09T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,4943d4e1-a2b9-2de4-0401-9c87f775cd1b,Hep A  adult,synthea
+2021-01-16T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,45213d9e-38b3-7917-6073-93efa30b833e,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-02-06T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,a2028f53-32d5-3024-274b-556a43d9ae59,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-11-13T04:14:37Z,c21dfcba-1a64-8a11-d77d-9325e660a9c5,e6d5100f-9738-9a1e-c460-5a241ff41ce1,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-25T12:35:18Z,2dc5360b-0608-9942-2a80-d5d96a001137,42c62a9a-aa7e-af9c-1dc5-5d2b198cabfb,Influenza  seasonal  injectable  preservative free,synthea
+2013-06-20T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,f5d4db2f-c977-1fd1-2bb4-3670ed0f5f4e,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-26T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,42ab9d60-6335-cbec-8926-08f5c1438834,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-02T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,7d7f960c-0871-6987-8baa-44a433fb54f2,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-02T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,7d7f960c-0871-6987-8baa-44a433fb54f2,Td (adult) preservative free,synthea
+2016-07-07T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,605f454c-e02d-9a22-81fa-62457a2456cd,Influenza  seasonal  injectable  preservative free,synthea
+2016-10-20T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,f71fb5b7-ecfb-b576-5dcf-8df2bb284fb4,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-19T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,47a3e439-cdc8-feef-f076-68e082fe8484,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-25T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,95773372-400b-dc58-6cfa-0e55f77a9ae6,Influenza  seasonal  injectable  preservative free,synthea
+2020-07-30T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,66358333-1284-ce42-b7f1-d6d86a2ebd90,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-31T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,42a444c1-1476-70aa-c9f1-cc9f09102db2,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-01-28T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,aebb120b-a819-19ba-40aa-f6d30b475e37,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-08-05T18:41:59Z,8493d25b-26a8-07e4-562d-4fecc97f4e8b,ca1cd96a-7510-d1f1-83a5-b81ae23a875e,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-06T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,49e8c140-b04c-fd33-81d4-e1846d569a7b,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-10T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,363f03ac-44e8-dac9-1c72-228d52fc05c6,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-11T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,7a0c98a9-d17c-caab-959b-0823ffdb7bb9,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-12T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,f1c67c86-1fed-9289-93cf-b9e7986d1ec2,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-29T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,20c4b0cc-afea-c100-6db0-db301115ae2e,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-06T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,edfd3539-ff16-b2d5-226c-aebe43d9a639,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-12T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,18fc9a08-4691-8df4-f4a4-56b807ccc68e,zoster,synthea
+2018-03-12T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,18fc9a08-4691-8df4-f4a4-56b807ccc68e,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-18T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,bad7fc0e-ad42-d044-a9be-449db7b9de62,zoster,synthea
+2019-03-18T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,bad7fc0e-ad42-d044-a9be-449db7b9de62,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-18T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,bad7fc0e-ad42-d044-a9be-449db7b9de62,Td (adult) preservative free,synthea
+2019-09-30T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,95599e8f-08ff-ccad-89f1-a487d0b127c5,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-18T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,e09042dd-a348-4d0d-3d65-be6165a89069,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-02-15T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,8faf63e2-c2a3-d883-c971-cbd467a27cdc,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-03-29T09:53:14Z,2072927f-fd52-5645-a9a5-49f22a3c928c,3f0e31c7-b118-1b2f-413d-383a8c12b66b,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-20T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,187c222b-fa8d-1c0d-f17b-30b8882c2ae0,Influenza  seasonal  injectable  preservative free,synthea
+2013-03-26T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,6939a06d-2393-3759-1e04-3ea27b59b0d2,Influenza  seasonal  injectable  preservative free,synthea
+2014-04-01T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,e69aedd1-8719-2147-92a7-7a5f28cb4e4a,Influenza  seasonal  injectable  preservative free,synthea
+2017-04-04T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,9571e6f8-3d8a-94d4-9c3b-9c8676d2db06,Influenza  seasonal  injectable  preservative free,synthea
+2017-04-04T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,9571e6f8-3d8a-94d4-9c3b-9c8676d2db06,Td (adult) preservative free,synthea
+2017-04-04T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,9571e6f8-3d8a-94d4-9c3b-9c8676d2db06,Hep B  adult,synthea
+2017-04-04T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,9571e6f8-3d8a-94d4-9c3b-9c8676d2db06,meningococcal MCV4P,synthea
+2020-04-07T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,1fe1c804-6cf5-fe6d-cf5e-0dbd8f19bc18,Influenza  seasonal  injectable  preservative free,synthea
+2020-04-28T14:24:05Z,b0dfc86a-9272-e9c2-f4a8-91c688d81c14,e2153e37-09d6-adea-4238-d45d2185092c,Influenza  seasonal  injectable  preservative free,synthea
+2012-06-20T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,596da4fb-131d-7485-e894-5d2b47e45b13,Influenza  seasonal  injectable  preservative free,synthea
+2013-06-26T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,f0dedc1f-cae3-eba4-70cc-4b009bbb5c29,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-02T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,4cef86b7-392f-371c-4d87-2d7561759d95,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-08T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,4a3be1e5-89c6-e60b-fa40-0302d5a6e933,Tdap,synthea
+2015-07-08T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,4a3be1e5-89c6-e60b-fa40-0302d5a6e933,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-08T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,4a3be1e5-89c6-e60b-fa40-0302d5a6e933,HPV  quadrivalent,synthea
+2015-07-08T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,4a3be1e5-89c6-e60b-fa40-0302d5a6e933,meningococcal MCV4P,synthea
+2016-03-30T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,df0105ff-71d6-3dc4-3dee-368f38aa38d0,Influenza  seasonal  injectable  preservative free,synthea
+2016-03-30T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,df0105ff-71d6-3dc4-3dee-368f38aa38d0,HPV  quadrivalent,synthea
+2016-04-06T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,c9004cd2-c4b9-f796-1861-6c25650b5de0,HPV  quadrivalent,synthea
+2017-06-07T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,a4a01bfe-7430-e195-5e44-6328b3e75132,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-25T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,ffce8fb9-c5f0-c701-d827-31b0213f704f,Influenza  seasonal  injectable  preservative free,synthea
+2019-04-17T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,7ea716e2-af06-234c-afdb-0111893e2868,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-05T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,e79155b2-a78e-cd84-f317-62094dafb949,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-05T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,e79155b2-a78e-cd84-f317-62094dafb949,meningococcal MCV4P,synthea
+2021-04-28T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,a1386a3c-89b6-c5de-75b1-a77afc1f86b4,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-05-26T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,c019c58b-e71b-0c43-2c2d-539c8bf9cdc6,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-08-11T12:44:18Z,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,277a74cf-2e13-cd36-69fb-507cc3b6e92a,Influenza  seasonal  injectable  preservative free,synthea
+2012-04-15T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,079758ec-ca97-9203-3cea-62c500b706c9,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-21T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,e1588319-ba00-8bd0-31cf-30917cd3a1fe,Influenza  seasonal  injectable  preservative free,synthea
+2014-04-27T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,cd9618cd-d607-5a6d-0d98-99ada3fcc41f,Tdap,synthea
+2014-04-27T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,cd9618cd-d607-5a6d-0d98-99ada3fcc41f,Influenza  seasonal  injectable  preservative free,synthea
+2014-04-27T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,cd9618cd-d607-5a6d-0d98-99ada3fcc41f,HPV  quadrivalent,synthea
+2014-04-27T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,cd9618cd-d607-5a6d-0d98-99ada3fcc41f,meningococcal MCV4P,synthea
+2015-05-03T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,3599d0ff-441d-84b7-54ed-1c081077525f,Influenza  seasonal  injectable  preservative free,synthea
+2015-05-03T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,3599d0ff-441d-84b7-54ed-1c081077525f,HPV  quadrivalent,synthea
+2016-05-08T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,29d62283-b572-176c-2a4a-cda1db001386,Influenza  seasonal  injectable  preservative free,synthea
+2016-05-08T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,29d62283-b572-176c-2a4a-cda1db001386,HPV  quadrivalent,synthea
+2017-05-14T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,41fcc0bc-facb-0a4c-2808-f42efc80c453,Influenza  seasonal  injectable  preservative free,synthea
+2018-05-20T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,64274434-bb9b-8cb3-a4ec-58f4ca19daba,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-26T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,47ba1579-d8c5-399b-3710-5fec19160855,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-26T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,47ba1579-d8c5-399b-3710-5fec19160855,meningococcal MCV4P,synthea
+2020-05-31T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,2f554f2f-1b08-bec6-1afc-26db2491ebba,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-23T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,3aca405e-9278-0457-02d9-f58c659f5224,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-06-06T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,94e4e6f2-702f-1953-b533-98f71387ff42,Influenza  seasonal  injectable  preservative free,synthea
+2021-06-20T21:31:05Z,060d9874-6122-d05e-9cc8-ebe657e85650,b5ff9cca-c85b-a8a0-3f81-da9c39b8d924,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-03-14T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,34ccff0e-bd8a-51b4-f533-762c561dde96,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-14T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,34ccff0e-bd8a-51b4-f533-762c561dde96,Td (adult) preservative free,synthea
+2012-03-14T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,34ccff0e-bd8a-51b4-f533-762c561dde96,Hep B  adult,synthea
+2012-03-14T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,34ccff0e-bd8a-51b4-f533-762c561dde96,meningococcal MCV4P,synthea
+2015-03-18T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,038fb024-2e0b-cea6-2fe7-6ea1dbc814ae,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-21T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,9668922d-16cb-4a6d-37b3-aefee8f9a0a7,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-24T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,4122e429-af2d-76d4-1ca6-6457cce8792b,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-24T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,4122e429-af2d-76d4-1ca6-6457cce8792b,Td (adult) preservative free,synthea
+2021-05-12T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,7cb4ceb1-9ebd-8e2e-866f-0a0f3e242779,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-06-02T10:06:04Z,5884bf81-f487-2364-ec86-a8459dff80e8,be1001cf-ae31-b1b0-6d24-646465a79721,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-02-21T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,fa0aa8e1-ed2a-6c6e-2663-9cddf8dfddf7,Influenza  seasonal  injectable  preservative free,synthea
+2013-02-26T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,deda05fe-d591-f577-f886-1d837b7cc86c,Influenza  seasonal  injectable  preservative free,synthea
+2014-03-04T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,05999d4a-9e33-3ad9-8564-075310ddac2c,Influenza  seasonal  injectable  preservative free,synthea
+2015-03-10T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,40a99d34-5f71-28bd-f6c2-0f6e225b9a28,Influenza  seasonal  injectable  preservative free,synthea
+2015-03-10T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,40a99d34-5f71-28bd-f6c2-0f6e225b9a28,Td (adult) preservative free,synthea
+2016-03-15T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,7c79e7bc-40b4-b112-a453-eaf425f06f10,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-21T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,b0055a5d-be05-e2b6-dda1-9a25c35a549e,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-27T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,239ab160-a63c-ae25-23f7-e040988f5c29,Influenza  seasonal  injectable  preservative free,synthea
+2019-04-02T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,2c111eb1-67bc-80f9-2039-b755e9708bed,Influenza  seasonal  injectable  preservative free,synthea
+2020-04-07T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,5d5fb471-9b60-7d2b-42e9-edb1ea8a6811,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-13T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,26d87bfd-9fac-c650-351c-8be275317a20,Influenza  seasonal  injectable  preservative free,synthea
+2021-06-15T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,19833691-17dc-32cb-85ce-7b9a665644e4,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-07-13T18:24:49Z,d555175a-0d72-99c7-24d9-2270bd096b24,c2cf7b6b-2de3-b8c2-fb18-e52554bc7f0f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2013-01-05T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,0e9791ca-4f08-c2e6-60a0-f89827525f9a,Influenza  seasonal  injectable  preservative free,synthea
+2013-01-05T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,0e9791ca-4f08-c2e6-60a0-f89827525f9a,Td (adult) preservative free,synthea
+2013-01-05T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,0e9791ca-4f08-c2e6-60a0-f89827525f9a,Hep A  adult,synthea
+2015-01-10T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,7e1de52b-70fe-a753-f621-6e8435a72cf0,Influenza  seasonal  injectable  preservative free,synthea
+2017-01-14T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,1fe0c23f-56fa-58ec-c0d0-789d945d0471,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-22T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,8efcc86e-64b4-acb7-fe5a-4cc51228422f,Influenza  seasonal  injectable  preservative free,synthea
+2019-01-19T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,ed6f29a9-21ee-8d1c-e207-ecf2af63db1c,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-26T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,718a5449-1a00-9b91-cc7c-44a758c49bb2,zoster,synthea
+2020-12-26T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,718a5449-1a00-9b91-cc7c-44a758c49bb2,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-10T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,e6d360f1-3acc-ed2f-c3e9-bbc039b5788f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-01T04:27:59Z,f158e332-cc57-7020-bfbd-59dc52cf17cc,895f011a-fed1-c8b0-b8a1-dbcbbba25a82,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-10-21T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,4ae149bd-28ba-ee56-1361-cd0163ec108b,Influenza  seasonal  injectable  preservative free,synthea
+2013-10-27T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,135c82b0-6906-73bc-8108-e0f807cdd888,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-02T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,1fa59017-9a9e-66a0-62f1-21aa7e2da984,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-08T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,57a832e7-4229-5cd6-bd2d-5d3d50e2b821,Influenza  seasonal  injectable  preservative free,synthea
+2016-11-06T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,51479642-2614-bfe9-2178-e052f8ed1748,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-19T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,28f7aff6-d7e9-ac31-be9d-0682e728652a,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-19T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,28f7aff6-d7e9-ac31-be9d-0682e728652a,Td (adult) preservative free,synthea
+2018-11-25T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,c33ec17a-83d9-dffc-e098-654c64883083,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-01T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,c18de51f-b939-a275-b9c4-1ba8871f54e0,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-06T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,5319077c-3a75-22cf-e73e-0f4776c2d556,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-14T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,3a2b0870-fd1b-9217-d27b-e52aa50f06ef,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-04-11T14:46:23Z,626aee49-3113-9e84-d9a0-06a9f12ef5c1,d715ef62-967a-506b-0bac-1cae87d7c390,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-08-27T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,d6ef7b91-a20b-f90d-2aa2-a9ff08be1b46,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-17T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,35acaa24-4db1-29db-3454-d617088b2ce7,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-23T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,a39c526a-d200-fd2b-0293-b2e2a86a7bf5,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-29T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,da0f8272-292f-bea2-871a-7df43330774b,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-29T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,da0f8272-292f-bea2-871a-7df43330774b,Td (adult) preservative free,synthea
+2017-03-06T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,1dd2664b-1898-f5ac-23cd-b0af2abc5dcd,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-12T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,389ab24e-be75-6429-8c13-885eeb1b20aa,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-18T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,4d93f595-2e48-7b42-973c-98cb13a41570,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-23T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,82d72ab4-3cb0-a19e-f4a8-417d080df9b8,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-29T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,1f8f0b3b-167b-dde8-504f-479f68208d92,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-30T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,a90aa54b-3e48-f1a3-f7de-e98988a9daac,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-09-20T22:07:28Z,93d66969-7c44-5a45-f201-db4e19816fb5,636f3398-2f8d-ee00-4838-b10c194fc7cd,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2014-03-15T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,dfc75cdd-811c-72e6-b336-574aded37a97,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-18T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,81ed1347-ced8-bcfe-0fea-0d93e366f5d2,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-21T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,7895bafb-4914-155b-aad2-b953ccf0defc,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-21T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,7895bafb-4914-155b-aad2-b953ccf0defc,Td (adult) preservative free,synthea
+2021-10-16T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,53fbd823-4839-9e5e-91de-b5095581189d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-11-06T09:22:25Z,d26d2597-2247-503f-a0e4-badd3f9b0a25,080b8c6c-1ee0-08ac-e135-17a031d2fdb5,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-01-25T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,f9cd20df-300c-23d3-c250-009bc9b4fe82,Influenza  seasonal  injectable  preservative free,synthea
+2013-01-30T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,6fbb2683-3729-75d3-86e7-07fc0624a963,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-05T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,cfdcdd81-21c2-c1a7-50da-1041ad537c58,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-05T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,cfdcdd81-21c2-c1a7-50da-1041ad537c58,Hep B  adult,synthea
+2015-02-11T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,78a61943-d8c7-6a78-3cd6-26292abd8516,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-11T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,78a61943-d8c7-6a78-3cd6-26292abd8516,Td (adult) preservative free,synthea
+2015-02-11T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,78a61943-d8c7-6a78-3cd6-26292abd8516,Hep B  adult,synthea
+2015-02-11T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,78a61943-d8c7-6a78-3cd6-26292abd8516,meningococcal MCV4P,synthea
+2016-02-17T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,5fb35989-f2ba-a27e-f1d0-5f28ea425b30,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-17T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,5fb35989-f2ba-a27e-f1d0-5f28ea425b30,Hep B  adult,synthea
+2012-05-20T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,6c210f31-6ba6-e36f-33c3-19b6c0459d85,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-22T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,419da0a6-010b-db84-1371-45a2c98b1e18,Influenza  seasonal  injectable  preservative free,synthea
+2018-02-28T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,6beadaa5-3252-277d-bd47-5ef4c1cb4e51,Influenza  seasonal  injectable  preservative free,synthea
+2013-05-19T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,0fc7d11c-ed34-00a7-f2f2-2911100e2528,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-06T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,fdb09d1c-7dc5-df21-bb3b-8ceb4725e87f,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-11T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,829cff33-bd8d-ab31-7142-b6276cc0e1a0,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-08T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,10d143e9-34f9-1b3a-90a9-6fe11af0277e,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-17T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,ebdab78b-d9ce-5f8c-fae5-2c7332a8a9a0,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-04T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,892e99b6-5dee-f442-8eed-9e2f288a487a,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2015-05-10T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,55cb576f-8275-9ee6-259c-7938944e66bb,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-25T17:47:38Z,42b79a68-c9ef-3cd5-7902-b0fb58c58daa,a811b1f3-f579-4524-1cbb-cdcbe405134d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-11-18T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,3904e949-956a-7847-3eda-7c320cb406b6,Influenza  seasonal  injectable  preservative free,synthea
+2012-11-18T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,3904e949-956a-7847-3eda-7c320cb406b6,Hep A  adult,synthea
+2014-11-23T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,b62f00ff-c81d-4cd0-2777-d1b438b02950,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-23T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,b62f00ff-c81d-4cd0-2777-d1b438b02950,Td (adult) preservative free,synthea
+2014-11-23T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,b62f00ff-c81d-4cd0-2777-d1b438b02950,Hep A  adult,synthea
+2016-11-27T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,8addd5d0-6b74-1a10-d496-5edffcbb0413,Influenza  seasonal  injectable  preservative free,synthea
+2016-05-29T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,3994c7ad-026e-9465-d4e0-31b6b25e2e73,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-02T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,5e8eedd7-b605-9b78-21e4-558e92680e5c,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-08T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,56db2b21-19bc-6ef6-ccab-42cd96303b98,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-13T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,cf33d687-fd00-0ea6-c106-5709260712ce,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-25T03:09:04Z,bbd6b861-bf0f-fc27-d129-7c8131609018,4e0c67ef-3f51-5c46-077f-21ab57d0e232,SARS-COV-2 (COVID-19) vaccine  vector non-replicating  recombinant spike protein-Ad26  preservative free  0.5 mL,synthea
+2017-06-11T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,6e71ed63-bc7e-f9b4-42ef-173935bef279,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-19T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,4b5fc886-001a-0282-deef-89883728f187,Td (adult) preservative free,synthea
+2018-05-20T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,268836b2-4bbd-828d-ed69-c5f1b9262181,Influenza  seasonal  injectable  preservative free,synthea
+2013-01-03T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,d361d6db-b522-4ade-984a-3d2ef13f8121,Influenza  seasonal  injectable  preservative free,synthea
+2013-01-03T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,d361d6db-b522-4ade-984a-3d2ef13f8121,Td (adult) preservative free,synthea
+2013-01-03T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,d361d6db-b522-4ade-984a-3d2ef13f8121,Hep B  adult,synthea
+2013-01-03T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,d361d6db-b522-4ade-984a-3d2ef13f8121,meningococcal MCV4P,synthea
+2016-01-14T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,3b07b6b0-798a-2f6b-9429-9e4bba5d7652,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-19T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,1b82b958-0cb0-0062-be52-54b526ec242e,Influenza  seasonal  injectable  preservative free,synthea
+2019-01-17T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,330ccf8a-adbd-acc1-43ed-14dcc4ace116,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-22T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,78c38eb1-1437-d2b1-8c1f-4337abae905a,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-13T07:04:31Z,25764a28-aed6-17bb-ae96-92d770645f3a,5aaeb2ac-3d67-79ce-38ff-2d3dde64a7e4,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2020-05-10T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,7b258c18-1a87-58e2-f3b8-b41791e79741,Influenza  seasonal  injectable  preservative free,synthea
+2021-02-14T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,b6bd10fd-955b-ea22-a263-99994cc42114,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-03-07T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,6771bda7-1060-0845-bb9d-0126f3b81750,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-06-06T08:53:35Z,11f0204e-5a36-69c8-470b-d36523ed28cd,130b6217-5419-274f-fe18-e50d984eca50,Influenza  seasonal  injectable  preservative free,synthea
+1945-03-31T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,8d646ece-e8b2-3ba4-702d-a8c638629531,Influenza  seasonal  injectable  preservative free,synthea
+1945-12-29T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,94a4bfdf-a50a-c1dc-a88e-c1677f1e9fe2,Influenza  seasonal  injectable  preservative free,synthea
+1946-10-19T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,019bba71-7975-049d-3af9-eea34f487cfc,Influenza  seasonal  injectable  preservative free,synthea
+1947-12-27T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,25735429-3833-6e30-03b0-7d5b850eac5b,Influenza  seasonal  injectable  preservative free,synthea
+1949-01-01T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,46b37a3d-014e-c959-1062-9c762eafbede,Influenza  seasonal  injectable  preservative free,synthea
+1949-10-22T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,e43d9a41-363a-3a26-f981-84fcafd19a0a,Influenza  seasonal  injectable  preservative free,synthea
+1951-01-13T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,856dadf5-38b0-e7b9-39d4-7c9ab653863a,Influenza  seasonal  injectable  preservative free,synthea
+1952-01-19T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,8e2e2642-85c3-d565-70a7-b89e38eb5904,Influenza  seasonal  injectable  preservative free,synthea
+1953-01-24T03:43:21Z,260a6571-eb8e-1be8-4d68-ce5d29dcabab,d7cb4c27-054b-0dd3-4a95-1a780ea1b610,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-18T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,2a52c8dc-2db8-dbbb-60c2-d9c13da272b9,Influenza  seasonal  injectable  preservative free,synthea
+2016-06-27T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,43a8929c-faca-14d7-bb56-1b1f4b3b0f9c,Influenza  seasonal  injectable  preservative free,synthea
+2017-08-21T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,f256e6a6-6b4e-4f90-4e51-dfe267f8f97b,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-01T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,201f51ce-9c97-a500-27e5-e2e5fca35a20,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-24T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,8c725f4d-33a2-673e-474d-3741f02f4cf0,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-24T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,8c725f4d-33a2-673e-474d-3741f02f4cf0,Td (adult) preservative free,synthea
+2021-04-26T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,750db4a5-f1ee-033d-e4c8-cc057c41498d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-17T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,13c579df-3aae-d535-60e1-af4721e42358,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-11-08T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,9b6555b5-7928-ba92-7bae-becfe02a641f,Influenza  seasonal  injectable  preservative free,synthea
+2021-11-15T16:56:24Z,1892efd3-5aaf-15b0-607e-0ca946759243,2d8d891f-2cda-1510-4a9d-aeb0ac8c1a35,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,bcefe52c-34d5-1079-4d78-6484e6243a7f,Hib (PRP-OMP),synthea
+2012-01-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,bcefe52c-34d5-1079-4d78-6484e6243a7f,varicella,synthea
+2012-01-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,bcefe52c-34d5-1079-4d78-6484e6243a7f,MMR,synthea
+2012-01-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,bcefe52c-34d5-1079-4d78-6484e6243a7f,Pneumococcal conjugate PCV 13,synthea
+2012-01-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,bcefe52c-34d5-1079-4d78-6484e6243a7f,Hep A  ped/adol  2 dose,synthea
+2012-04-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,a2ee83a7-2df3-3cb5-f7fe-fa332ff52b6f,DTaP,synthea
+2012-10-17T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,645afdcf-8069-d8db-27e0-69ab274f6ffa,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-17T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,09c52d47-c218-35d7-86af-9c0c571d40e7,Hep A  ped/adol  2 dose,synthea
+2013-10-16T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,41967809-8f88-769b-ed2f-7d3c55398b4d,Influenza  seasonal  injectable  preservative free,synthea
+2014-10-15T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,35a56644-7abc-ee9d-b33e-26a49cdcd464,Influenza  seasonal  injectable  preservative free,synthea
+2015-10-21T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,39678b5b-415a-d514-750c-3e56c05fcbe4,varicella,synthea
+2015-10-21T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,39678b5b-415a-d514-750c-3e56c05fcbe4,IPV,synthea
+2015-10-21T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,39678b5b-415a-d514-750c-3e56c05fcbe4,Influenza  seasonal  injectable  preservative free,synthea
+2015-10-21T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,39678b5b-415a-d514-750c-3e56c05fcbe4,DTaP,synthea
+2015-10-21T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,39678b5b-415a-d514-750c-3e56c05fcbe4,MMR,synthea
+2016-10-26T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,8aaa899c-544e-4772-a564-72962d5a0a2a,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-01T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,c8c2cc86-32bb-0822-9ee1-6aacde73e7c6,Influenza  seasonal  injectable  preservative free,synthea
+2018-11-07T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,dc716d0d-53e5-eead-f7bf-b8405811163f,Influenza  seasonal  injectable  preservative free,synthea
+1975-08-19T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,76056d21-fddd-260f-5498-b8aab95bf6f0,Influenza  seasonal  injectable  preservative free,synthea
+1976-08-17T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,087a31b2-ea03-abf3-b25c-f52f36b3b909,Influenza  seasonal  injectable  preservative free,synthea
+1977-08-23T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,8423ca91-601a-b66e-ad64-165ccaee4022,Hib (PRP-OMP),synthea
+1977-08-23T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,8423ca91-601a-b66e-ad64-165ccaee4022,IPV,synthea
+1977-08-23T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,8423ca91-601a-b66e-ad64-165ccaee4022,Influenza  seasonal  injectable  preservative free,synthea
+1977-08-23T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,8423ca91-601a-b66e-ad64-165ccaee4022,MMR,synthea
+1978-08-29T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,3d628cb4-7c92-8589-8eb2-12a3f4e83ce2,Influenza  seasonal  injectable  preservative free,synthea
+2019-11-13T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,60882e7c-0490-0430-e700-1d59f6820a16,Influenza  seasonal  injectable  preservative free,synthea
+1979-09-04T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,8325020d-6e83-d5a7-72ab-988baee2e8fe,Influenza  seasonal  injectable  preservative free,synthea
+2020-11-18T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,3f1f00b9-5c2a-4838-5295-4f32fb615fa8,Influenza  seasonal  injectable  preservative free,synthea
+1980-09-09T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,c3aa3066-1525-4c9b-f4df-69be8d8ed399,Influenza  seasonal  injectable  preservative free,synthea
+2021-11-24T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,5dc08d4c-2396-1ee7-0b51-4f40d71f18c3,Tdap,synthea
+2021-11-24T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,5dc08d4c-2396-1ee7-0b51-4f40d71f18c3,Influenza  seasonal  injectable  preservative free,synthea
+2021-11-24T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,5dc08d4c-2396-1ee7-0b51-4f40d71f18c3,HPV  quadrivalent,synthea
+2021-11-24T06:51:38Z,ccd5e8c3-5e5b-3f8e-3307-bac43321c8e0,5dc08d4c-2396-1ee7-0b51-4f40d71f18c3,meningococcal MCV4P,synthea
+1981-06-30T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,c9b91fe1-3ec5-9ca6-a5bc-8fa3614e029c,Influenza  seasonal  injectable  preservative free,synthea
+1982-09-21T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,b0d8ef25-0307-ac82-8592-0fd254d7a1a3,Influenza  seasonal  injectable  preservative free,synthea
+1983-09-27T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,a75cbc1b-270e-5ce9-f855-7121e4aef3f0,Influenza  seasonal  injectable  preservative free,synthea
+1984-10-02T18:03:02Z,7c2fd932-1222-8def-f88f-7ad9f1f5da20,9f8a5cf4-fd2b-5199-8be8-cf09856e28cc,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-04T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,2991e5b7-2c21-dc68-8784-7219b1d84c59,Influenza  seasonal  injectable  preservative free,synthea
+2013-02-09T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,4108c5bf-1aff-07bf-8618-053c76134a56,Tdap,synthea
+2013-02-09T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,4108c5bf-1aff-07bf-8618-053c76134a56,Influenza  seasonal  injectable  preservative free,synthea
+2013-02-09T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,4108c5bf-1aff-07bf-8618-053c76134a56,HPV  quadrivalent,synthea
+2013-02-09T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,4108c5bf-1aff-07bf-8618-053c76134a56,meningococcal MCV4P,synthea
+2014-02-15T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,c7bbcbe9-90d1-575f-aebd-a7f4b4d3a1eb,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-15T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,c7bbcbe9-90d1-575f-aebd-a7f4b4d3a1eb,HPV  quadrivalent,synthea
+2015-02-21T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,a8b6c34a-9466-1adb-5190-b690f361e988,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-21T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,a8b6c34a-9466-1adb-5190-b690f361e988,HPV  quadrivalent,synthea
+2016-02-27T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,4e530588-99aa-db46-0f50-71751e6a5e43,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-04T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,fe22c8c0-a01c-554c-cbf3-c4598df92109,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-10T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,7dc5b773-976e-16c2-5e97-4191d70fff49,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-10T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,7dc5b773-976e-16c2-5e97-4191d70fff49,meningococcal MCV4P,synthea
+2019-03-16T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,39808abd-5966-a468-0b20-3fba101c28d8,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-21T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,467a2ff2-0dc8-bb60-0e0b-0aab9cb39883,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-27T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,886c4a66-ceea-6767-b55c-6e23c0275038,Influenza  seasonal  injectable  preservative free,synthea
+2021-10-16T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,ba628bba-ae25-7f96-8142-480de7bfdfd8,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-11-13T18:34:24Z,cc978aca-cf3b-939e-8bda-08adc00765e4,5e73de04-a684-e04e-3db1-a565f8e35485,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-04-05T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,bb0995a9-df33-2fc7-2033-bef59f3e602a,zoster,synthea
+2012-04-05T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,bb0995a9-df33-2fc7-2033-bef59f3e602a,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-11T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,ba4f68c7-b66f-2e6e-7ac4-889f17f5be24,zoster,synthea
+2013-04-11T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,ba4f68c7-b66f-2e6e-7ac4-889f17f5be24,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-11T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,ba4f68c7-b66f-2e6e-7ac4-889f17f5be24,Td (adult) preservative free,synthea
+2014-04-17T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,f42f63b9-6717-3b78-1046-06d4952adf32,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-23T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,67b8107f-85e9-e84a-1761-ff8762723062,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-28T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,b0305834-8a76-68bf-dbef-c2c0812edb70,Influenza  seasonal  injectable  preservative free,synthea
+2017-05-04T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,e0e2bfb9-961b-c26d-0e15-57234dad56a9,Influenza  seasonal  injectable  preservative free,synthea
+2018-05-10T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,b7144ba5-fd24-c1f0-9093-e595ca06cbf5,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-16T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,3cafba63-86b8-f408-bb2f-7f06c9310b88,Influenza  seasonal  injectable  preservative free,synthea
+2020-05-21T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,7ac84c5c-1bd9-689b-6a16-707361b40713,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-11T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,7b2520c5-fd45-fbbe-a508-a70fd128db62,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-04-01T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,354843b1-cef0-dc7d-17d0-ffa50ed8b915,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-27T15:09:53Z,b2e455d0-6491-c7b1-3f02-1d178a017337,35817810-4e86-0ebe-07c3-9e8e9d4739d2,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-21T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,e4720279-0552-1847-a030-f8482ddc1ea0,Hep B  adolescent or pediatric,synthea
+2015-02-25T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,45005eef-1d14-0e3e-6db9-f091276a2b50,Hep B  adolescent or pediatric,synthea
+2015-04-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,7c360868-4534-32e9-719c-69c057fcadcf,Hib (PRP-OMP),synthea
+2015-04-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,7c360868-4534-32e9-719c-69c057fcadcf,rotavirus  monovalent,synthea
+2015-04-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,7c360868-4534-32e9-719c-69c057fcadcf,IPV,synthea
+2015-04-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,7c360868-4534-32e9-719c-69c057fcadcf,DTaP,synthea
+2015-04-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,7c360868-4534-32e9-719c-69c057fcadcf,Pneumococcal conjugate PCV 13,synthea
+2015-07-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,2caee1c6-21da-e029-2942-7ffeed0af748,Hib (PRP-OMP),synthea
+2015-07-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,2caee1c6-21da-e029-2942-7ffeed0af748,rotavirus  monovalent,synthea
+2015-07-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,2caee1c6-21da-e029-2942-7ffeed0af748,IPV,synthea
+2015-07-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,2caee1c6-21da-e029-2942-7ffeed0af748,DTaP,synthea
+2015-07-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,2caee1c6-21da-e029-2942-7ffeed0af748,Pneumococcal conjugate PCV 13,synthea
+2015-09-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,700c5684-9331-1059-6bc4-4f52143f9b6c,IPV,synthea
+2015-09-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,700c5684-9331-1059-6bc4-4f52143f9b6c,Influenza  seasonal  injectable  preservative free,synthea
+2015-09-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,700c5684-9331-1059-6bc4-4f52143f9b6c,DTaP,synthea
+2015-09-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,700c5684-9331-1059-6bc4-4f52143f9b6c,Pneumococcal conjugate PCV 13,synthea
+2015-09-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,700c5684-9331-1059-6bc4-4f52143f9b6c,Hep B  adolescent or pediatric,synthea
+2016-03-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aeb3a9d2-1c5f-ed91-92a9-7e0169a6b8db,Hib (PRP-OMP),synthea
+2016-03-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aeb3a9d2-1c5f-ed91-92a9-7e0169a6b8db,varicella,synthea
+2016-03-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aeb3a9d2-1c5f-ed91-92a9-7e0169a6b8db,MMR,synthea
+2016-03-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aeb3a9d2-1c5f-ed91-92a9-7e0169a6b8db,Pneumococcal conjugate PCV 13,synthea
+2016-03-30T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aeb3a9d2-1c5f-ed91-92a9-7e0169a6b8db,Hep A  ped/adol  2 dose,synthea
+2016-06-29T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,aa7f10cb-711e-83c5-15ee-89138887a291,DTaP,synthea
+2016-12-28T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,faf26e35-95ba-c531-6c30-7913f05e568b,Influenza  seasonal  injectable  preservative free,synthea
+2017-06-28T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,f929e662-bc05-6441-a6a7-a56e006556f7,Hep A  ped/adol  2 dose,synthea
+2017-12-27T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,d30dd608-8adf-2bc2-2910-f9b08249cc28,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-26T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,8c985102-f903-50f3-1f17-b024a983a31a,Influenza  seasonal  injectable  preservative free,synthea
+2020-01-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,c015e693-0cde-69f7-c4a4-e88f85b38271,varicella,synthea
+2020-01-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,c015e693-0cde-69f7-c4a4-e88f85b38271,IPV,synthea
+2020-01-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,c015e693-0cde-69f7-c4a4-e88f85b38271,Influenza  seasonal  injectable  preservative free,synthea
+2020-01-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,c015e693-0cde-69f7-c4a4-e88f85b38271,DTaP,synthea
+2020-01-01T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,c015e693-0cde-69f7-c4a4-e88f85b38271,MMR,synthea
+2021-01-06T09:55:23Z,a3e350af-6a37-15d7-a1e5-0405880adc22,40c8365b-630b-1afc-fdd9-e19a1c13027b,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-07T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,c19102aa-72c2-9976-2e88-9e3f509d987c,Influenza  seasonal  injectable  preservative free,synthea
+2013-01-12T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,40e36240-573f-13ba-8473-32a369c9f157,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-18T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,ab524772-5a3e-6d80-7388-b2af5e9c2e03,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-24T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,cb72552c-1be7-6f74-55e0-29c2296d53db,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-30T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,871c8b75-660f-ba1f-db1d-536477f184c5,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-04T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,df7b5955-5bde-3db4-4bd0-bacc9aaf3100,Influenza  seasonal  injectable  preservative free,synthea
+2018-02-10T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,341e483a-880d-2d63-de5c-6b0bb844985a,Influenza  seasonal  injectable  preservative free,synthea
+2018-02-10T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,341e483a-880d-2d63-de5c-6b0bb844985a,Hep A  adult,synthea
+2019-02-16T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,ba9112f9-eca9-8ce0-516c-9561d9296402,Influenza  seasonal  injectable  preservative free,synthea
+2019-02-16T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,ba9112f9-eca9-8ce0-516c-9561d9296402,Td (adult) preservative free,synthea
+2019-02-16T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,ba9112f9-eca9-8ce0-516c-9561d9296402,Hep A  adult,synthea
+2020-02-22T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,2b893ea1-1c1b-e074-c3eb-d5dab9a080e0,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-30T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,8df4ed66-d1eb-57f5-e177-75706e61328b,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-02-27T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,54a2a59c-7e3c-f342-7f2c-05a594e45914,Influenza  seasonal  injectable  preservative free,synthea
+2021-02-27T00:27:48Z,e542416a-f0e5-6d9d-b2c3-bfc820d67edd,ed016e29-9b20-71dc-4ce5-5fd5d2665391,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-05-04T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,18dd42fe-a55c-73a2-7060-e94e09e15f77,Influenza  seasonal  injectable  preservative free,synthea
+2012-05-04T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,18dd42fe-a55c-73a2-7060-e94e09e15f77,Td (adult) preservative free,synthea
+2012-05-04T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,18dd42fe-a55c-73a2-7060-e94e09e15f77,Hep B  adult,synthea
+2012-05-04T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,18dd42fe-a55c-73a2-7060-e94e09e15f77,meningococcal MCV4P,synthea
+2015-05-08T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,675adb19-4f4f-852e-cbc4-fc12f00715a4,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-24T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,fd0b6659-d10a-4199-63e8-bedaf4370c2e,Influenza  seasonal  injectable  preservative free,synthea
+2018-05-11T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,2d6912e5-edd6-2488-9e5d-c6c4c1cbbb57,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-07T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,c14fdf3e-96ea-6bf1-9dfb-7295b00e7af6,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-14T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,64188c7f-eef6-1bf5-f2a7-e4baa2f44e26,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-14T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,92d02096-c6d3-001f-c4bb-d1bcbcff6c1b,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-14T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,92d02096-c6d3-001f-c4bb-d1bcbcff6c1b,Td (adult) preservative free,synthea
+2021-08-13T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,6962888d-2fa9-e8d9-7092-bae26c32af38,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-10T16:55:12Z,64352ca5-2241-e4f6-f5a1-2d8d64605931,06d4c7c6-bda7-29d6-957d-713aa03d8237,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-09-18T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,e5b8a3fa-577c-c0a5-a84d-85244b7e489d,Influenza  seasonal  injectable  preservative free,synthea
+2012-09-18T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,e5b8a3fa-577c-c0a5-a84d-85244b7e489d,Hep A  adult,synthea
+2014-09-23T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,139f4d6a-fc0c-8ced-27ac-bb6dbae0a240,Influenza  seasonal  injectable  preservative free,synthea
+2014-09-23T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,139f4d6a-fc0c-8ced-27ac-bb6dbae0a240,Td (adult) preservative free,synthea
+2014-09-23T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,139f4d6a-fc0c-8ced-27ac-bb6dbae0a240,Hep A  adult,synthea
+2016-09-27T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,f604383c-464a-3df0-4e1c-3e5d1a51e296,Influenza  seasonal  injectable  preservative free,synthea
+2018-10-02T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,1be9554f-6608-833b-f08e-f58f81661c67,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-06T18:03:02Z,a353a24c-9047-91ad-2c7a-fe65f1f72358,5f969a61-59d4-52c1-7430-fcb96e6c540f,Influenza  seasonal  injectable  preservative free,synthea
+2012-08-07T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,63a0674e-c5f6-2b13-36d1-7b136c2a71f4,Influenza  seasonal  injectable  preservative free,synthea
+2013-07-30T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,fa37b8ed-86f8-6fcb-e2d9-5dc4552126b1,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-22T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,4fd6af67-8880-25b9-259b-16583194ac0d,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-20T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,dfb2a651-9fe8-0d66-8ae4-44e21229e682,Pneumococcal conjugate PCV 13,synthea
+2015-07-21T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,01c01f23-31a2-2493-df0a-74d82cecdc1b,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-26T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,375973f3-b1e9-e4a3-8ebb-ff556be811f0,pneumococcal polysaccharide vaccine  23 valent,synthea
+2001-03-03T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,7d0ac876-a7b4-32d3-8630-3a92c3eed74a,Influenza  seasonal  injectable  preservative free,synthea
+2002-03-09T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,f888eaa2-5f7d-2956-d90a-6a6842984a9f,Influenza  seasonal  injectable  preservative free,synthea
+2003-03-15T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,0229813e-85fe-c781-78ae-df8dfef76dc8,Influenza  seasonal  injectable  preservative free,synthea
+2004-03-20T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,d4f2e987-b30b-3b70-0be3-376772d01a10,Influenza  seasonal  injectable  preservative free,synthea
+2005-03-26T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,ae254228-bc20-f5a1-2966-2580595f6d4e,Influenza  seasonal  injectable  preservative free,synthea
+2005-03-26T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,ae254228-bc20-f5a1-2966-2580595f6d4e,Td (adult) preservative free,synthea
+2006-04-01T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,5afd0317-0394-98d6-de3f-037359ba0f7f,Influenza  seasonal  injectable  preservative free,synthea
+2007-04-07T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,2a699712-2dbb-daff-12a3-1860555b1783,Influenza  seasonal  injectable  preservative free,synthea
+2008-04-12T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,e7ec7fa5-16d5-3516-4d4c-53809680738a,Influenza  seasonal  injectable  preservative free,synthea
+2009-04-18T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,1d12c2e7-695f-4fc9-8458-28a40399eb28,Influenza  seasonal  injectable  preservative free,synthea
+2016-07-19T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,5f6ecdb4-0892-133d-14ed-b050cecdb4dc,Influenza  seasonal  injectable  preservative free,synthea
+2010-04-24T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,f50e851f-2406-3cb0-cb9f-04356871bd43,Influenza  seasonal  injectable  preservative free,synthea
+2010-04-24T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,f50e851f-2406-3cb0-cb9f-04356871bd43,pneumococcal polysaccharide vaccine  23 valent,synthea
+2010-04-24T03:43:21Z,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,f50e851f-2406-3cb0-cb9f-04356871bd43,Pneumococcal conjugate PCV 13,synthea
+2013-11-06T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,cae92432-94e2-c8c1-c570-2ba30196dbe4,Hep B  adolescent or pediatric,synthea
+2013-12-11T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,61eac2af-a8a2-8516-de39-b190ff370f21,Hep B  adolescent or pediatric,synthea
+2014-02-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9cce6f03-a760-80b0-069b-b9446105582e,Hib (PRP-OMP),synthea
+2014-02-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9cce6f03-a760-80b0-069b-b9446105582e,rotavirus  monovalent,synthea
+2014-02-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9cce6f03-a760-80b0-069b-b9446105582e,IPV,synthea
+2014-02-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9cce6f03-a760-80b0-069b-b9446105582e,DTaP,synthea
+2014-02-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9cce6f03-a760-80b0-069b-b9446105582e,Pneumococcal conjugate PCV 13,synthea
+2014-04-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,1dcc1c0a-ea03-3f31-ea00-50b167a08bf4,Hib (PRP-OMP),synthea
+2014-04-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,1dcc1c0a-ea03-3f31-ea00-50b167a08bf4,rotavirus  monovalent,synthea
+2014-04-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,1dcc1c0a-ea03-3f31-ea00-50b167a08bf4,IPV,synthea
+2014-04-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,1dcc1c0a-ea03-3f31-ea00-50b167a08bf4,DTaP,synthea
+2014-04-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,1dcc1c0a-ea03-3f31-ea00-50b167a08bf4,Pneumococcal conjugate PCV 13,synthea
+2014-07-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,4a2175ff-3a5b-10aa-9954-ab9e3b0a0d4a,IPV,synthea
+2014-07-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,4a2175ff-3a5b-10aa-9954-ab9e3b0a0d4a,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,4a2175ff-3a5b-10aa-9954-ab9e3b0a0d4a,DTaP,synthea
+2014-07-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,4a2175ff-3a5b-10aa-9954-ab9e3b0a0d4a,Pneumococcal conjugate PCV 13,synthea
+2014-07-16T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,4a2175ff-3a5b-10aa-9954-ab9e3b0a0d4a,Hep B  adolescent or pediatric,synthea
+2015-01-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,e16803fd-fcf1-c7ab-a338-a27eff1117aa,Hib (PRP-OMP),synthea
+2015-01-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,e16803fd-fcf1-c7ab-a338-a27eff1117aa,varicella,synthea
+2015-01-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,e16803fd-fcf1-c7ab-a338-a27eff1117aa,MMR,synthea
+2015-01-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,e16803fd-fcf1-c7ab-a338-a27eff1117aa,Pneumococcal conjugate PCV 13,synthea
+2015-01-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,e16803fd-fcf1-c7ab-a338-a27eff1117aa,Hep A  ped/adol  2 dose,synthea
+2015-04-15T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,39d36802-0277-55c7-dc59-3418d3f7145b,DTaP,synthea
+2017-08-08T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,80709938-a624-863d-e54a-a0dade2142de,Influenza  seasonal  injectable  preservative free,synthea
+2015-10-14T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,f7dc451b-f2fb-4c6e-cc36-214893fcc51c,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-13T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,ac6b2d52-1688-545a-161f-657c2e38e898,Hep A  ped/adol  2 dose,synthea
+2012-10-16T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,6caad2e4-0b3a-5c44-4317-8815053e7c53,Influenza  seasonal  injectable  preservative free,synthea
+2012-10-16T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,6caad2e4-0b3a-5c44-4317-8815053e7c53,HPV  quadrivalent,synthea
+2016-10-12T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,d0cd9837-4924-7c4b-ab02-f2756904e6a0,Influenza  seasonal  injectable  preservative free,synthea
+2013-10-22T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,b3b43cba-f6fd-6f87-b67c-c9053c69444a,Influenza  seasonal  injectable  preservative free,synthea
+2014-10-28T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,f026de95-e1c1-8b77-8d99-ea5047dc381b,Influenza  seasonal  injectable  preservative free,synthea
+2017-10-11T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,34cc6f22-abb4-1e27-3993-69b1e018ff71,Influenza  seasonal  injectable  preservative free,synthea
+2018-10-17T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,69e26508-0598-28e1-fb1e-ef5ec7ca79c0,varicella,synthea
+2018-10-17T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,69e26508-0598-28e1-fb1e-ef5ec7ca79c0,IPV,synthea
+2018-10-17T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,69e26508-0598-28e1-fb1e-ef5ec7ca79c0,Influenza  seasonal  injectable  preservative free,synthea
+2018-10-17T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,69e26508-0598-28e1-fb1e-ef5ec7ca79c0,DTaP,synthea
+2018-10-17T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,69e26508-0598-28e1-fb1e-ef5ec7ca79c0,MMR,synthea
+2019-10-23T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,9f33b451-4f32-ff79-5e59-42683affcad5,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-28T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,cab39b74-3081-4be6-1301-99b58a3fd1e4,Influenza  seasonal  injectable  preservative free,synthea
+2021-11-03T10:51:11Z,e27224aa-66ff-f34a-7032-1d67c63d13e8,a8e66294-67bf-a4a7-02d0-ef61d8f0bc34,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-17T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,1881306a-91e5-1fd8-593a-14ffe8ef0344,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-03T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,b8992fd7-46aa-c2f4-1497-171e0f203a62,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-03T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,b8992fd7-46aa-c2f4-1497-171e0f203a62,meningococcal MCV4P,synthea
+2016-11-08T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,7ca1a040-d08e-d53a-8a86-2a2f69a59a17,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-14T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,947f6a40-fb0f-f735-403e-39ca42d1106e,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-30T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,ddc4f0ec-17af-e189-1c72-cb0a36fc8fcd,Influenza  seasonal  injectable  preservative free,synthea
+2018-11-20T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,db5612e1-2fb7-a30e-7372-29da8b9d7df1,Influenza  seasonal  injectable  preservative free,synthea
+2019-11-26T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,d7cb4c31-6856-29ff-a4f2-2e07c130ff18,Influenza  seasonal  injectable  preservative free,synthea
+2019-11-26T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,d7cb4c31-6856-29ff-a4f2-2e07c130ff18,Hep B  adult,synthea
+2020-12-08T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,4f28f56b-4f2e-295a-0d19-974cde0d4b3a,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-08T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,4f28f56b-4f2e-295a-0d19-974cde0d4b3a,Td (adult) preservative free,synthea
+2020-12-08T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,4f28f56b-4f2e-295a-0d19-974cde0d4b3a,Hep B  adult,synthea
+2020-12-08T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,4f28f56b-4f2e-295a-0d19-974cde0d4b3a,meningococcal MCV4P,synthea
+2021-03-30T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,cdf6f8e2-bc68-02f1-8179-a40d341a112f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-04-27T09:13:48Z,57a4f32e-fd14-aad9-1d27-d196e33c83bd,219f61c4-521d-45f8-d7df-82d56ed6730c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2020-07-21T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,9e83e667-822b-2cbc-b07e-5707ac5ef1cd,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-19T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,3591f65e-2191-0a55-aa51-d9b9f29441e2,Td (adult) preservative free,synthea
+2021-03-30T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,8ab91ea7-3847-5610-9288-19c456dea228,SARS-COV-2 (COVID-19) vaccine  vector non-replicating  recombinant spike protein-Ad26  preservative free  0.5 mL,synthea
+2021-07-20T08:09:58Z,25cbb230-30e8-dc72-f748-a5495d69002e,32a4a7d9-be41-793f-dbf2-68c0badad6d0,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-29T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,e24a12c8-044e-950a-0e70-c2011c8761cf,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-29T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,e24a12c8-044e-950a-0e70-c2011c8761cf,Td (adult) preservative free,synthea
+2013-03-06T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,d7bd6bb9-1eb8-c450-0b4e-c069b7026d0b,Influenza  seasonal  injectable  preservative free,synthea
+2014-03-12T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,a1849a75-5f45-2096-7643-1b677ecdafe5,Influenza  seasonal  injectable  preservative free,synthea
+2015-03-18T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,1e5bda1b-f71e-1b0d-22a9-5c4c399c43d3,Influenza  seasonal  injectable  preservative free,synthea
+2016-03-23T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,6b26d3a6-644b-5987-d5b7-d754c3700ee6,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-29T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,a5f12424-ebaf-6e9d-2c9a-42f68f962147,Influenza  seasonal  injectable  preservative free,synthea
+2018-04-04T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,cddb7f87-b54c-7bdc-7b87-88f940971b10,Influenza  seasonal  injectable  preservative free,synthea
+2019-04-10T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,85d33db4-c92e-1d41-e00d-4c1df5b5aa6f,Influenza  seasonal  injectable  preservative free,synthea
+2020-04-15T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,2670645a-a8d3-240c-dfe6-974b3c22f21c,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-21T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c59a5e3e-7add-9c90-cee5-88fd26cb5a31,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-21T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c59a5e3e-7add-9c90-cee5-88fd26cb5a31,Hep A  adult,synthea
+2021-04-21T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,e515f8bf-e0a7-031a-6762-3b623050153d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-05-19T10:14:27Z,d5f53e31-63a5-629a-c9ff-429f3c11af9e,25fc5b61-5262-9d70-7491-b52b66f3003f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-09-13T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,2e4f06d7-ca74-9c5e-b9bf-3c9d9c845e10,Influenza  seasonal  injectable  preservative free,synthea
+2013-09-19T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,ae308030-cd2e-f898-6e2c-24d5a7dd1687,Influenza  seasonal  injectable  preservative free,synthea
+2013-09-19T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,ae308030-cd2e-f898-6e2c-24d5a7dd1687,Td (adult) preservative free,synthea
+2014-09-25T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,f7e1fb59-51cb-d259-9281-d391e673bc65,Influenza  seasonal  injectable  preservative free,synthea
+2015-10-01T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,cbd54204-ef12-3f73-0ee5-efd928aad1b8,Influenza  seasonal  injectable  preservative free,synthea
+2016-10-06T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,8db3a5d1-b1a2-be17-7cb4-7eb2c3255dc9,Influenza  seasonal  injectable  preservative free,synthea
+2017-10-12T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,003c13e4-2cdf-89cc-f9f7-9450fc15543d,Influenza  seasonal  injectable  preservative free,synthea
+2017-10-12T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,003c13e4-2cdf-89cc-f9f7-9450fc15543d,Pneumococcal conjugate PCV 13,synthea
+2018-10-18T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,09da9e4e-8eb6-f401-3fb6-4347d94a84d8,Influenza  seasonal  injectable  preservative free,synthea
+2018-10-18T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,09da9e4e-8eb6-f401-3fb6-4347d94a84d8,pneumococcal polysaccharide vaccine  23 valent,synthea
+2019-10-24T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,85b96c77-5c89-98b7-39f8-512e4e08cf03,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-29T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,90e2ea48-2ad9-1bb9-8305-2eeb5efd4f94,Influenza  seasonal  injectable  preservative free,synthea
+2021-02-11T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,12a4ff88-bae4-c241-450d-79463ade6885,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-03-04T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,5fcbc757-64e3-2207-a472-224780cbbf0b,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-11-04T17:26:59Z,a8337ef4-da1a-7dc4-09a2-cf7d04bf6aea,b7b2aa1c-80f3-3acb-7e4c-0642ac00e31e,Influenza  seasonal  injectable  preservative free,synthea
+2013-05-26T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,0fc61414-4b84-c680-d883-497a62b21239,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-01T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,1a255946-97f4-947b-4ad6-39337a7c2724,Influenza  seasonal  injectable  preservative free,synthea
+2015-06-07T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,9b0a02f8-44e8-1e3c-f64c-97956515c28b,Influenza  seasonal  injectable  preservative free,synthea
+2016-06-12T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,9218c447-1e96-b07b-a349-d48e768f8778,Influenza  seasonal  injectable  preservative free,synthea
+2017-06-18T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,570ac0e9-b1a9-1257-4fa3-3fb0b494712a,Influenza  seasonal  injectable  preservative free,synthea
+2018-06-24T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,9694d502-f6e1-9e1a-9c81-2ce4431d30fe,Influenza  seasonal  injectable  preservative free,synthea
+2019-06-30T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,2ef9054a-f317-2f4b-cce7-a80b19132a8f,Influenza  seasonal  injectable  preservative free,synthea
+2019-06-30T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,2ef9054a-f317-2f4b-cce7-a80b19132a8f,Td (adult) preservative free,synthea
+2020-07-05T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,d4e76a7c-5e6b-57b2-09cc-4d18ffe894f8,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-11T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,f480a884-f1ea-ebfe-fdc8-3e18106ff1dc,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-22T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,e16ad96c-590f-dcd4-604b-d1d7a05e621d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-09-12T04:45:41Z,3c4dce52-8c8b-5418-a155-6acfc1cc0454,5277c326-1c93-df3a-1bd4-ac5a6a65808b,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-07-30T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,db362e5e-8553-e933-91e8-c5d4f484fd28,Influenza  seasonal  injectable  preservative free,synthea
+2013-08-05T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,48ecb3a2-0576-d8dc-f63b-1d58224338d2,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-11T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,4660c17a-ed14-e858-ad6c-8467b489fb0d,Influenza  seasonal  injectable  preservative free,synthea
+2015-05-11T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,805a4146-4106-0524-be6e-ff44f2cc3c8b,Influenza  seasonal  injectable  preservative free,synthea
+2016-08-22T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,4c6f7e9e-ee8f-b460-59b9-a4dd11f6e321,Influenza  seasonal  injectable  preservative free,synthea
+2017-08-28T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,ed717167-168a-9b5f-07c0-1aa8d705b73f,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-03T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,91634fbe-4182-07f3-b1dd-f5aeefbc2f21,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-09T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,8d5aaf21-206f-2209-f3fa-d0796fe286cb,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-09T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,8d5aaf21-206f-2209-f3fa-d0796fe286cb,Td (adult) preservative free,synthea
+2020-09-14T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,60b02d4d-1274-b0ae-52e3-8a46e3466f78,Influenza  seasonal  injectable  preservative free,synthea
+2021-06-21T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,b841288d-8ed3-c473-cc99-ed5a720ce662,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-07-12T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,eeff108a-8f1e-5137-1fdd-8d105253f15d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-09-20T08:02:43Z,e1cae8cd-55ca-8610-0c79-84c0f82d5269,dbd31e67-6017-1373-73a2-7a6db52cc322,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-29T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,242ad776-5179-d189-6144-d4a1c84e6db2,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-31T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,e4fcfd1e-c084-3efe-2898-9386cea57a1e,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-06T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,bb713f1d-a2f6-2313-315c-ba231bdf702a,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-12T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,552b3e8d-3737-1e0a-4e79-9a9e50379706,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-17T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,7faf62c7-3a1b-95ad-270f-6dc3596f4cb5,Influenza  seasonal  injectable  preservative free,synthea
+2018-02-23T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,e56e4d7e-d6bd-2512-8145-3423630e5e90,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-01T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,067149f2-68b3-c12a-e24e-1dc55f96a2ac,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-06T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,0c9a9ee4-cd5e-c9bc-fc88-05feededcaa1,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-06T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,0c9a9ee4-cd5e-c9bc-fc88-05feededcaa1,Td (adult) preservative free,synthea
+2021-03-12T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,19af24f5-7fdd-f547-67d8-283562425385,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-23T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,9442a860-1df8-526f-c396-faac0c4d58fc,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-14T22:36:17Z,bb276dc5-abef-56a6-fb77-ced5062568d4,19adf336-1b78-4562-bc66-cd76358dfc8e,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2013-01-10T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,c695933b-4e0f-0b2b-3c75-885780c78741,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-15T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,a3ef63df-b257-c6df-140d-a37af7876616,Influenza  seasonal  injectable  preservative free,synthea
+2016-12-22T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,df239390-77c5-81e2-6f4a-fca06eaec10c,zoster,synthea
+2016-12-22T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,df239390-77c5-81e2-6f4a-fca06eaec10c,Influenza  seasonal  injectable  preservative free,synthea
+2017-12-28T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,3437c86a-3d3c-c089-0101-6a2d0f3ae453,zoster,synthea
+2017-12-28T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,3437c86a-3d3c-c089-0101-6a2d0f3ae453,Influenza  seasonal  injectable  preservative free,synthea
+2017-12-28T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,3437c86a-3d3c-c089-0101-6a2d0f3ae453,Td (adult) preservative free,synthea
+2019-01-03T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,97292777-6e4d-9134-4417-0f8858f4c5b2,Influenza  seasonal  injectable  preservative free,synthea
+2020-01-09T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,8acf9d62-97f8-d777-b037-77dcd8f4f76c,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-14T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,824b4b8a-3168-032a-2652-91718fe791e1,Influenza  seasonal  injectable  preservative free,synthea
+2021-11-04T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,2b99a2b9-9e4e-52a1-8bb0-f345b975032c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-12-02T12:54:40Z,2a3ada9c-20c8-0ed3-bb87-5ff6ce0c76f1,e48396cc-4186-7495-db45-4f962ddce519,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2004-11-13T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,7d003dc2-4e6b-f86b-d7b8-28c353a75c57,Influenza  seasonal  injectable  preservative free,synthea
+2005-11-19T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,5d2dcb04-2419-34f1-8db5-395c6c8b0488,Influenza  seasonal  injectable  preservative free,synthea
+2005-11-19T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,5d2dcb04-2419-34f1-8db5-395c6c8b0488,Td (adult) preservative free,synthea
+2006-11-25T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,d9d2dedd-c864-7934-db27-34a8f0617af9,Influenza  seasonal  injectable  preservative free,synthea
+2007-12-01T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,e9e06c3e-04cb-edc1-a8f3-a647f77d7a26,Influenza  seasonal  injectable  preservative free,synthea
+2008-12-06T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,004b352d-fade-b528-f42f-1c4b7e2d85b6,Influenza  seasonal  injectable  preservative free,synthea
+2009-12-12T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,28f373dc-e4f2-d886-a0c3-f7dea70701a7,Influenza  seasonal  injectable  preservative free,synthea
+2010-12-18T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,0c751172-2ad6-ebcc-8d81-1bc7548d9e63,Influenza  seasonal  injectable  preservative free,synthea
+2010-12-18T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,0c751172-2ad6-ebcc-8d81-1bc7548d9e63,pneumococcal polysaccharide vaccine  23 valent,synthea
+2010-12-18T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,0c751172-2ad6-ebcc-8d81-1bc7548d9e63,Pneumococcal conjugate PCV 13,synthea
+2011-12-24T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,9d0ee2c7-1edd-f415-872b-c960d07763e5,Influenza  seasonal  injectable  preservative free,synthea
+2012-12-29T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,0aa0818e-822c-2d12-6e2a-41ca0c505f3d,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-04T03:43:21Z,5b586c89-03ac-a0ac-919e-6cf0f4b8cbeb,d1d490a2-88d5-dc5d-4053-170fae5961a2,Influenza  seasonal  injectable  preservative free,synthea
+2012-06-20T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,87e60823-d5ca-dc61-b058-09563cb8fdac,varicella,synthea
+2012-06-20T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,87e60823-d5ca-dc61-b058-09563cb8fdac,IPV,synthea
+2012-06-20T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,87e60823-d5ca-dc61-b058-09563cb8fdac,Influenza  seasonal  injectable  preservative free,synthea
+2012-06-20T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,87e60823-d5ca-dc61-b058-09563cb8fdac,DTaP,synthea
+2012-06-20T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,87e60823-d5ca-dc61-b058-09563cb8fdac,MMR,synthea
+2013-06-26T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,b3710185-db78-6d76-94fc-2c6653e5c324,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-02T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,8c59d512-31ee-ffab-70de-22ea34227ee7,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-08T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,05beb770-52cf-3bc8-1c2d-754b691df976,Influenza  seasonal  injectable  preservative free,synthea
+2016-07-13T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,f8447ecc-d232-6e17-0d48-759e304f7b04,Influenza  seasonal  injectable  preservative free,synthea
+2017-07-19T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,50c92fd5-5f66-8dec-c494-d8f8c1ec6ac3,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-25T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,8b7db7d8-f4e8-1f74-e407-93e40120764c,Tdap,synthea
+2018-07-25T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,8b7db7d8-f4e8-1f74-e407-93e40120764c,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-25T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,8b7db7d8-f4e8-1f74-e407-93e40120764c,HPV  quadrivalent,synthea
+2018-07-25T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,8b7db7d8-f4e8-1f74-e407-93e40120764c,meningococcal MCV4P,synthea
+2019-07-31T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,68f2d284-014b-bfc7-cde3-2ab113c218fe,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-31T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,68f2d284-014b-bfc7-cde3-2ab113c218fe,HPV  quadrivalent,synthea
+2020-08-05T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,da8a8521-86a6-a4f3-d293-b0cda3ead682,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-05T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,da8a8521-86a6-a4f3-d293-b0cda3ead682,HPV  quadrivalent,synthea
+2021-07-28T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,310f5f27-00ab-a43f-c335-1633097227ee,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-08-11T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,00121dcb-7c36-7e10-b388-d1c861b59ff7,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-18T05:47:47Z,a43ba4e0-f4cf-b4a7-d737-65e93be70104,09ec0a35-9011-bc5c-903a-24c720c95302,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-07-20T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,681802d9-10c8-2624-6f48-f5e6d865b2bf,Influenza  seasonal  injectable  preservative free,synthea
+2012-07-20T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,681802d9-10c8-2624-6f48-f5e6d865b2bf,pneumococcal polysaccharide vaccine  23 valent,synthea
+2013-07-26T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,4607befb-6f52-d549-87cd-b5ae4cb55ace,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-01T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,f660341a-4976-45a7-b0bb-ecc171ef5843,Influenza  seasonal  injectable  preservative free,synthea
+2015-08-07T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,d93aab57-a0c8-f2de-40e6-10ea44e2ea39,Influenza  seasonal  injectable  preservative free,synthea
+2016-08-12T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,af3cea68-ced3-b963-db93-4fa4a869786e,Influenza  seasonal  injectable  preservative free,synthea
+2017-08-18T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,3e87ef5a-0a99-83b0-e230-8d1fc1c6de2f,Influenza  seasonal  injectable  preservative free,synthea
+2017-08-18T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,3e87ef5a-0a99-83b0-e230-8d1fc1c6de2f,Td (adult) preservative free,synthea
+2018-08-24T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,2bcd6956-dde0-cd38-3e85-7234bf93c9ca,Influenza  seasonal  injectable  preservative free,synthea
+2012-10-28T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,c5d6dbc7-880b-9ee8-69ae-c3cbec7e1882,Influenza  seasonal  injectable  preservative free,synthea
+2019-08-30T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,52b15da3-8dae-f553-c10a-532356568079,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-03T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,211b226a-bc23-4159-9468-1ca0b8165880,Influenza  seasonal  injectable  preservative free,synthea
+2020-09-04T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,97564896-2ac6-c12a-8924-ba560b25023d,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-01T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,05833bb9-25a7-07d5-a988-eb93f5830b0a,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-01-29T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,21e9659a-f5f3-3c4f-c54b-d1d41908e7f6,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-10T20:22:25Z,77bdf603-ccb6-fc56-881c-96adbfc1f101,297482d2-97c5-c8af-d130-1b074e4436ee,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-09T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,2e8870c0-5064-0187-69c1-76437633eaa3,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-15T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,e7d23f33-5b80-b4c2-fa9b-95d8e5f737d5,Influenza  seasonal  injectable  preservative free,synthea
+2016-06-26T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,fb034afc-9c87-2fc1-d7c6-a6a0fe1de281,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-26T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,4966d0c7-8111-8037-b102-08ce78f7b239,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-02T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,bfcb450e-4d82-1988-1c72-2285130b795b,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-08T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,b4af47f6-ab35-0240-dc1c-bfd555cb0e86,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-13T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,59b94ceb-d5b8-4fed-0127-b87fc073978d,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-13T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,59b94ceb-d5b8-4fed-0127-b87fc073978d,Td (adult) preservative free,synthea
+2021-11-28T13:24:31Z,a0395087-7768-7858-ad08-c588d10ae2ea,f501fd11-e6b3-b50a-7f14-abf8ff8d4a74,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-02-13T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,4083f058-c082-218b-4821-9776b9f0c553,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-13T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,4083f058-c082-218b-4821-9776b9f0c553,Td (adult) preservative free,synthea
+2013-02-18T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,b0f14dd4-c00f-9cb4-0f93-090f9fa6457f,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-24T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,72336829-f2b4-2ee5-49a9-dccbfd277be3,Influenza  seasonal  injectable  preservative free,synthea
+2015-03-02T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,db44749c-acf9-a88a-ba11-8e81cdd6edab,Influenza  seasonal  injectable  preservative free,synthea
+2016-03-07T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,8cc35454-6c7a-57b0-085e-ee63517751e3,Influenza  seasonal  injectable  preservative free,synthea
+2016-03-07T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,8cc35454-6c7a-57b0-085e-ee63517751e3,Pneumococcal conjugate PCV 13,synthea
+2017-03-13T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,821d57e7-af25-3256-cc2f-62f0bd7a4675,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-13T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,821d57e7-af25-3256-cc2f-62f0bd7a4675,pneumococcal polysaccharide vaccine  23 valent,synthea
+2018-03-19T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,9fbc2ed5-0057-1f89-895d-feec551725b2,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-25T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,853c726f-613b-471f-f180-d58cb3987f87,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-30T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,d63afc77-cdaf-4f55-fc17-7321b9c1f24b,Influenza  seasonal  injectable  preservative free,synthea
+2021-02-08T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,4b61914c-83ee-7db4-acc1-2813a8728bd5,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-03-01T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,d871eedc-cbbb-5c22-69f4-43de8d021766,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-04-05T02:41:49Z,08c0c167-72df-5267-c4ea-54389287bd66,19d8c52f-010a-8995-3771-0f825afcf021,Influenza  seasonal  injectable  preservative free,synthea
+1999-08-29T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,d0d515ec-f3ea-f5ac-2b9d-5af344aef9b4,Influenza  seasonal  injectable  preservative free,synthea
+2000-09-03T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,f994de3b-6a22-8ef7-b49b-b4c3d75e40b2,Influenza  seasonal  injectable  preservative free,synthea
+2001-09-09T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,349b0a47-4c8e-b535-c542-76ab349b395f,Influenza  seasonal  injectable  preservative free,synthea
+2002-09-15T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,558a4716-cce0-68a3-c182-5e06b3f86c10,Influenza  seasonal  injectable  preservative free,synthea
+2003-09-21T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,3c2dbeb1-46d0-6df2-f8bf-429844ef8df8,Influenza  seasonal  injectable  preservative free,synthea
+2004-09-26T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,59b50d7f-125d-e3ab-ee35-c2ec1edc75c6,Influenza  seasonal  injectable  preservative free,synthea
+2005-10-02T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,b14e91a6-eac8-21ad-58a2-ebe1cd10f38e,Influenza  seasonal  injectable  preservative free,synthea
+2005-10-02T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,b14e91a6-eac8-21ad-58a2-ebe1cd10f38e,meningococcal MCV4P,synthea
+2006-10-08T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,693f2f97-1046-a003-4514-26d0a97d3e34,Influenza  seasonal  injectable  preservative free,synthea
+2007-10-14T19:36:07Z,338546f1-5553-c3dc-dc5b-5dd001faf583,7b8a389b-2a0d-931e-4229-5ccf9f6c4fb2,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-30T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,decebf4f-c05c-0674-227c-074fee415b92,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-30T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,decebf4f-c05c-0674-227c-074fee415b92,Td (adult) preservative free,synthea
+2013-02-04T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,f57389e1-976c-bafa-402a-166f98000021,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-10T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,854c5768-5fe6-69c3-d842-51ac1ccb955c,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-16T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,7798e494-95a7-f790-4301-add4a6fe847d,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-22T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,7347b8bf-5277-07f4-fc46-24866fb63f9c,Influenza  seasonal  injectable  preservative free,synthea
+2016-02-22T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,7347b8bf-5277-07f4-fc46-24866fb63f9c,Pneumococcal conjugate PCV 13,synthea
+2017-02-27T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,8b7fcef3-48ff-46d1-ecfa-d8b948019a76,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-27T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,8b7fcef3-48ff-46d1-ecfa-d8b948019a76,pneumococcal polysaccharide vaccine  23 valent,synthea
+2018-03-05T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,e6150c75-37ec-18f4-8479-2cdd1f3fb4c3,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-11T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,14f2940a-8d46-afa2-35b8-ea0f603d9f3d,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-16T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,41b5dfab-13be-e636-a2d3-2e2353702041,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-08T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,b339c500-c173-0d21-8b33-7bea17f5ac7d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-03-22T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,6680442c-e4f6-5892-09ff-370d0d565391,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-29T05:22:18Z,aba9bb61-1735-101a-7b8d-b70ee7d2a85d,87bf91fc-b361-8e2a-3d4d-5bc01c10ffcd,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2006-04-11T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,7e97e44a-82dc-b610-7c02-8f974e038db5,Influenza  seasonal  injectable  preservative free,synthea
+2007-04-17T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,a7fed37d-5e4c-6e59-9a26-61e8aa91c7e2,Influenza  seasonal  injectable  preservative free,synthea
+2007-04-17T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,a7fed37d-5e4c-6e59-9a26-61e8aa91c7e2,Td (adult) preservative free,synthea
+2008-04-22T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,333c6f17-ad13-945f-c8f2-aa6a80f63fe4,Influenza  seasonal  injectable  preservative free,synthea
+2009-04-28T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,19511d50-35d2-df45-2e9d-dfa50a79cc9b,Influenza  seasonal  injectable  preservative free,synthea
+2010-05-04T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,d7604928-2c43-59e6-15de-d0efc826c67f,Influenza  seasonal  injectable  preservative free,synthea
+2011-05-10T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,f44fb911-4ee3-fc35-dba9-769183c9233c,Influenza  seasonal  injectable  preservative free,synthea
+2012-05-15T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,2a5cdbf4-8271-2d7a-5b53-62fa07d8a9ff,Influenza  seasonal  injectable  preservative free,synthea
+2013-05-21T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,924351d5-fc99-d2ce-9ab5-69c8da991550,Influenza  seasonal  injectable  preservative free,synthea
+2014-05-27T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,309bb6ce-cb04-30a5-8ee2-2e5db34a150c,Influenza  seasonal  injectable  preservative free,synthea
+2015-06-02T05:42:08Z,f7cf7e0f-503b-7413-164b-0dbbe9487765,88b9aec7-9655-a901-4e8a-486000dee9d2,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-03T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,139f3270-de1d-e944-b7fb-cb2882655cce,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-30T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,a932cfc0-fa74-bf32-98e8-205bc4050628,Influenza  seasonal  injectable  preservative free,synthea
+2013-12-07T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,03fe1ec0-fdc8-2583-ccc6-479eaa121e65,Influenza  seasonal  injectable  preservative free,synthea
+2014-02-08T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,df4db1c5-387c-bcbc-e873-f625caf03f12,zoster,synthea
+2014-02-08T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,df4db1c5-387c-bcbc-e873-f625caf03f12,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-14T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,054711b4-2497-82cd-ca9e-f87856eadd07,zoster,synthea
+2015-02-14T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,054711b4-2497-82cd-ca9e-f87856eadd07,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-14T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,054711b4-2497-82cd-ca9e-f87856eadd07,Td (adult) preservative free,synthea
+2016-02-20T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,166a7c95-ab80-3ba2-4ca4-6c99390f974c,Influenza  seasonal  injectable  preservative free,synthea
+2017-02-25T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,7e0d6e4f-a01c-a9c7-13a3-d282d1e18de3,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-03T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,85333a0d-0162-70e5-25f8-6bf8fc6b39e1,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-09T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,b2434f38-a05e-ccd0-dd11-0c7252718ce8,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-14T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,412078c0-9e57-d39b-bda9-713b197d760b,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-20T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,ec2ad8fb-ea36-64de-fa3b-9e5698e60cbe,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-08T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,53ff5f68-350f-d8e3-0ef5-753f222e708d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-29T20:56:04Z,d96b4e78-fe1d-f989-ffc8-57c39892cdc8,a53acd4a-3889-b088-81da-bd5710dbec65,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-11-11T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,aedf2fdd-64db-5f44-9b6c-e062ca5efa7f,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-17T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,47b964b8-2391-5410-625d-ecbe006261cc,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-23T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,ef9a2bff-64f5-5982-1c6c-e0b7b0b96a55,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-29T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,9813e433-5d15-adda-4650-555f504acf04,Influenza  seasonal  injectable  preservative free,synthea
+2012-05-08T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,8b067043-5ea6-6654-52b7-c343f14ae010,Influenza  seasonal  injectable  preservative free,synthea
+2013-05-14T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,875bbeac-2f25-751f-32fc-8dd0939a882f,Influenza  seasonal  injectable  preservative free,synthea
+2014-05-20T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,74dd870c-e7b2-e4bc-4153-d29bfa6cbcd3,Influenza  seasonal  injectable  preservative free,synthea
+2015-05-26T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,deb0a5e9-be1a-0843-f3f5-7e5056746f7b,Influenza  seasonal  injectable  preservative free,synthea
+2016-12-04T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,1c84e61a-c8ce-df24-e84e-147b58990bcb,Influenza  seasonal  injectable  preservative free,synthea
+2017-12-10T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,fa4c295a-26b1-effe-6a7e-06f73dadae6e,Influenza  seasonal  injectable  preservative free,synthea
+2016-05-31T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,bfed3ea5-f56f-dfa4-12e1-5717727b0e2f,Influenza  seasonal  injectable  preservative free,synthea
+2017-06-06T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,5cce4442-2d6a-b617-5aa8-eedf1ba2c314,Influenza  seasonal  injectable  preservative free,synthea
+2018-06-12T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,2670058d-180c-87a2-5df3-165ac0be6c2a,Influenza  seasonal  injectable  preservative free,synthea
+2019-06-18T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,1db5a468-fe8a-6886-7ca8-dcda9dcfe18e,Influenza  seasonal  injectable  preservative free,synthea
+2020-06-23T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,fac3be15-97e9-47ea-a533-6eb9455bee6f,Influenza  seasonal  injectable  preservative free,synthea
+2020-06-23T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,fac3be15-97e9-47ea-a533-6eb9455bee6f,Td (adult) preservative free,synthea
+2021-01-12T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,4e573b56-8e0c-659f-c767-70edb8799eaa,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-02-09T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,6b78f47c-fac1-88c4-49b5-7d537f34fa96,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-06-29T02:31:18Z,eb413634-1229-b595-f97c-f2da646c1a6b,e4e886dc-4fa8-322b-9b76-e35460ca43a2,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-16T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,cc73e524-2c4c-0ab4-ef69-abc663012cb0,Influenza  seasonal  injectable  preservative free,synthea
+2021-09-08T04:26:10Z,8e803e6f-01f0-0b95-c1cb-17953881461c,8de1396b-5fe5-c4d1-10d9-ad3e28fda6d4,Hep B  adolescent or pediatric,synthea
+2021-10-13T04:26:10Z,8e803e6f-01f0-0b95-c1cb-17953881461c,86db9fc3-bc66-08b6-0e9a-1a3b6542dbd8,Hep B  adolescent or pediatric,synthea
+2019-12-22T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,7b2f1063-f220-4274-aecd-3f0a920b4d34,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-22T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,7b2f1063-f220-4274-aecd-3f0a920b4d34,Td (adult) preservative free,synthea
+2020-12-27T19:36:07Z,52aefb38-e909-5da5-edc4-23c0fc731409,cff14204-0365-862b-3b1d-f6c40228d7cb,Influenza  seasonal  injectable  preservative free,synthea
+2011-12-24T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,d0711c85-1cb6-240b-0ace-03a4706e5f88,Influenza  seasonal  injectable  preservative free,synthea
+2012-12-29T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,b9761f8c-db65-4291-13fc-a4801fd752e5,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-04T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,a5422f3f-b2e2-23dd-cc76-30256565d419,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-10T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,fab966ce-546d-7404-1028-8c43232b9472,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-16T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,b6701c62-8c42-ec84-d1e6-a9de2005485d,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-16T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,b6701c62-8c42-ec84-d1e6-a9de2005485d,Td (adult) preservative free,synthea
+2017-01-21T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,b0d23f26-54ed-1ba2-d720-c747843e4d4d,Influenza  seasonal  injectable  preservative free,synthea
+2018-01-27T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,2e4669d2-95b3-b7fb-f3c5-7fa658b090a4,Influenza  seasonal  injectable  preservative free,synthea
+2019-02-02T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,9a97a6f5-2498-3bd1-e374-ef2c09c333e2,Influenza  seasonal  injectable  preservative free,synthea
+2020-02-08T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,79603ab7-2192-796f-23a9-7d50ef8cba39,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-16T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,a783aedf-43a9-feb7-00e8-65b5861ab625,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-02-06T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,f7409fb0-defc-ea9e-9ab7-52d04b5593ad,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-02-13T03:43:21Z,8a6dbffe-b766-9de2-8785-5709c5ad85a3,b7e7e2fa-96cb-8a95-21f1-f643da75a054,Influenza  seasonal  injectable  preservative free,synthea
+2012-11-12T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,01bd36cf-21c6-f67f-0708-885e3ffee83c,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-18T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,26267214-8765-5781-95e7-a88d6e49b5dc,Tdap,synthea
+2013-11-18T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,26267214-8765-5781-95e7-a88d6e49b5dc,Influenza  seasonal  injectable  preservative free,synthea
+2013-11-18T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,26267214-8765-5781-95e7-a88d6e49b5dc,HPV  quadrivalent,synthea
+2013-11-18T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,26267214-8765-5781-95e7-a88d6e49b5dc,meningococcal MCV4P,synthea
+2014-06-16T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,18e67374-3211-c72e-d693-92dff8da6b7a,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-16T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,18e67374-3211-c72e-d693-92dff8da6b7a,HPV  quadrivalent,synthea
+2014-11-24T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,66ab63e9-354a-06e3-1358-249b0ed0f97c,HPV  quadrivalent,synthea
+2015-11-30T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,512ea89d-3d71-8476-381b-472ea38d75af,Influenza  seasonal  injectable  preservative free,synthea
+2016-12-05T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,f5f29099-24cd-9640-82c7-711df3f76f5d,Influenza  seasonal  injectable  preservative free,synthea
+2017-12-11T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,9a85bde2-b7fe-bf9b-c737-7a47f1eec2c0,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-17T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,bcae9fd8-5d57-706b-308c-2a97a4d97769,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-17T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,bcae9fd8-5d57-706b-308c-2a97a4d97769,meningococcal MCV4P,synthea
+2019-12-23T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,1d70d28b-c168-6205-46f0-ddd7389f8c72,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-28T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,e7230755-6dbb-3959-7251-28644a506743,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-30T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,6fa295e9-56b7-ea24-e387-eefe4411003c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-06T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,d9fdc59c-9d77-da9e-bf70-c191796b7ae7,Influenza  seasonal  injectable  preservative free,synthea
+2003-06-09T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,8c5cd19b-eb90-a0e8-135a-5e6d505fd184,varicella,synthea
+2003-06-09T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,8c5cd19b-eb90-a0e8-135a-5e6d505fd184,IPV,synthea
+2003-06-09T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,8c5cd19b-eb90-a0e8-135a-5e6d505fd184,Influenza  seasonal  injectable  preservative free,synthea
+2003-06-09T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,8c5cd19b-eb90-a0e8-135a-5e6d505fd184,DTaP,synthea
+2003-06-09T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,8c5cd19b-eb90-a0e8-135a-5e6d505fd184,MMR,synthea
+2021-09-27T12:41:46Z,7495d723-0e21-ab68-1daa-ca4108b04067,f8c14500-9cf0-c0ef-d8ac-3c427eed378c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2004-06-14T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,c9d1f582-c6ab-274a-a06b-6112240bc226,Influenza  seasonal  injectable  preservative free,synthea
+2005-06-20T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,7948f72d-7d7c-1189-117f-7e866bde7fc0,Influenza  seasonal  injectable  preservative free,synthea
+2006-06-26T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,47bf45e3-8358-24e6-4b5c-823b743871f1,Influenza  seasonal  injectable  preservative free,synthea
+2007-07-02T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,a0e43e5d-7b3d-c427-5459-19d078ab4d97,Influenza  seasonal  injectable  preservative free,synthea
+2008-03-31T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,868e0be3-8501-07e7-8760-0876bc05cf6b,Influenza  seasonal  injectable  preservative free,synthea
+2009-07-13T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,9df46b11-205d-3f8d-858b-7f3e8424189e,Tdap,synthea
+2009-07-13T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,9df46b11-205d-3f8d-858b-7f3e8424189e,Influenza  seasonal  injectable  preservative free,synthea
+2009-07-13T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,9df46b11-205d-3f8d-858b-7f3e8424189e,HPV  quadrivalent,synthea
+2009-07-13T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,9df46b11-205d-3f8d-858b-7f3e8424189e,meningococcal MCV4P,synthea
+2010-07-19T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,c0bbe369-0861-095d-3a82-3eefa4f7801f,Influenza  seasonal  injectable  preservative free,synthea
+2010-07-19T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,c0bbe369-0861-095d-3a82-3eefa4f7801f,HPV  quadrivalent,synthea
+2011-07-25T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,5105391e-289a-d9bc-b4f1-3f1b492a40ea,Influenza  seasonal  injectable  preservative free,synthea
+2011-07-25T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,5105391e-289a-d9bc-b4f1-3f1b492a40ea,HPV  quadrivalent,synthea
+2012-07-30T12:00:24Z,39b95362-7522-d76b-93ff-32a560d26293,4b5b99d7-7e6c-4914-ebf4-4cc701c4a9a3,Influenza  seasonal  injectable  preservative free,synthea
+2012-04-05T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,b89cefc0-0c4c-b395-4bc9-d03876ea2879,zoster,synthea
+2012-04-05T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,b89cefc0-0c4c-b395-4bc9-d03876ea2879,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-11T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,94cf6dd0-d2ab-70ca-98ed-c22669daa34e,zoster,synthea
+2013-04-11T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,94cf6dd0-d2ab-70ca-98ed-c22669daa34e,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-11T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,94cf6dd0-d2ab-70ca-98ed-c22669daa34e,Td (adult) preservative free,synthea
+2014-04-17T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,ceb3f99b-96a4-b65e-8b6e-6105a4fb216b,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-23T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,23e691b1-cfdd-544b-2e6d-cdd3e2a35954,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-28T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,99f0b991-90d1-4d81-6274-3a9e02c88d93,Influenza  seasonal  injectable  preservative free,synthea
+2017-05-04T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,f94a67f0-c0dd-de40-39d3-313578a716bc,Influenza  seasonal  injectable  preservative free,synthea
+2018-05-10T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,7bf13809-6ef7-a82d-ac0b-0ba46320d7b4,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-16T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,49c62715-16cd-77e0-70f2-5e9610fdb55c,Influenza  seasonal  injectable  preservative free,synthea
+2020-05-21T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,94d92001-2938-217b-d56e-cf22b46d2474,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-13T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,7b7b87da-5e09-dc71-6fbb-d6c1a5e6e6f8,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-05-27T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,fb661282-e661-5512-aff5-3eb6e0894704,Influenza  seasonal  injectable  preservative free,synthea
+2021-06-10T03:57:36Z,c86b75bd-f4a0-cd23-8130-07f52f01a9d6,af0beb5f-9f02-442a-85ab-0ae732beb13a,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2015-10-05T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,483d2da2-763f-df8c-27b1-ca6040d14bc0,Hep B  adolescent or pediatric,synthea
+2015-11-09T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,0cd14215-45be-ffce-9ae7-d57d750ed6f8,Hep B  adolescent or pediatric,synthea
+2016-01-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,6db17e1c-9abb-c9b4-5d29-40094f9a6629,Hib (PRP-OMP),synthea
+2016-01-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,6db17e1c-9abb-c9b4-5d29-40094f9a6629,rotavirus  monovalent,synthea
+2016-01-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,6db17e1c-9abb-c9b4-5d29-40094f9a6629,IPV,synthea
+2016-01-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,6db17e1c-9abb-c9b4-5d29-40094f9a6629,DTaP,synthea
+2016-01-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,6db17e1c-9abb-c9b4-5d29-40094f9a6629,Pneumococcal conjugate PCV 13,synthea
+2016-03-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8ad88a8e-62bc-7f68-1fb6-c07df59d27b0,Hib (PRP-OMP),synthea
+2016-03-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8ad88a8e-62bc-7f68-1fb6-c07df59d27b0,rotavirus  monovalent,synthea
+2016-03-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8ad88a8e-62bc-7f68-1fb6-c07df59d27b0,IPV,synthea
+2016-03-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8ad88a8e-62bc-7f68-1fb6-c07df59d27b0,DTaP,synthea
+2016-03-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8ad88a8e-62bc-7f68-1fb6-c07df59d27b0,Pneumococcal conjugate PCV 13,synthea
+2016-06-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,d6516347-74a9-aef3-f78b-630e0d9a3a3a,IPV,synthea
+2016-06-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,d6516347-74a9-aef3-f78b-630e0d9a3a3a,Influenza  seasonal  injectable  preservative free,synthea
+2016-06-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,d6516347-74a9-aef3-f78b-630e0d9a3a3a,DTaP,synthea
+2016-06-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,d6516347-74a9-aef3-f78b-630e0d9a3a3a,Pneumococcal conjugate PCV 13,synthea
+2016-06-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,d6516347-74a9-aef3-f78b-630e0d9a3a3a,Hep B  adolescent or pediatric,synthea
+2016-12-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8e1c1c4c-23cf-080f-85cf-dbe5f54a0e41,Hib (PRP-OMP),synthea
+2016-12-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8e1c1c4c-23cf-080f-85cf-dbe5f54a0e41,varicella,synthea
+2016-12-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8e1c1c4c-23cf-080f-85cf-dbe5f54a0e41,MMR,synthea
+2016-12-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8e1c1c4c-23cf-080f-85cf-dbe5f54a0e41,Pneumococcal conjugate PCV 13,synthea
+2016-12-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,8e1c1c4c-23cf-080f-85cf-dbe5f54a0e41,Hep A  ped/adol  2 dose,synthea
+2017-03-13T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,2558e6fa-8139-1f28-2b5a-7661dae278b3,DTaP,synthea
+2017-09-11T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,2dfc086e-9e7a-d3af-9d94-f04431719e31,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-12T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,09d217cd-d637-a00c-c3fc-24004c4b5a1e,Hep A  ped/adol  2 dose,synthea
+2018-09-10T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,7c65689b-779d-907c-09f4-0c8fcf8b3623,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-09T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,a2d9d344-8227-24dd-c7dc-1481d6b20612,Influenza  seasonal  injectable  preservative free,synthea
+2020-09-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,130b01dd-c869-2177-fcaf-3c71d54bb895,varicella,synthea
+2020-09-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,130b01dd-c869-2177-fcaf-3c71d54bb895,IPV,synthea
+2020-09-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,130b01dd-c869-2177-fcaf-3c71d54bb895,Influenza  seasonal  injectable  preservative free,synthea
+2020-09-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,130b01dd-c869-2177-fcaf-3c71d54bb895,DTaP,synthea
+2020-09-14T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,130b01dd-c869-2177-fcaf-3c71d54bb895,MMR,synthea
+2021-09-20T12:16:34Z,b6c31709-dfc0-4cc9-761a-7f5db4cb121b,f41932ec-4dfa-54c3-efa5-31b318db4239,Influenza  seasonal  injectable  preservative free,synthea
+2012-11-04T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,e2f43780-5aec-c86a-968f-09e68080b510,Influenza  seasonal  injectable  preservative free,synthea
+2012-11-04T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,e2f43780-5aec-c86a-968f-09e68080b510,Td (adult) preservative free,synthea
+2013-11-10T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,eb5ea16d-64bb-84b8-46e3-8de36d782e8c,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-16T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,49fd768d-1e32-0b7c-d237-44c5165baba1,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-22T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,5e05665b-9e74-2bd1-c25b-803bc90de293,Influenza  seasonal  injectable  preservative free,synthea
+2016-11-27T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,cce0e453-dbd0-4ebd-3a6a-846e7755d978,Influenza  seasonal  injectable  preservative free,synthea
+2017-12-03T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,d31a4a42-d1ba-3a78-db7a-e5be91305dc5,Influenza  seasonal  injectable  preservative free,synthea
+2018-12-09T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,b0e1c77b-c450-a03b-8660-cbf614ab66ad,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-15T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,767bb41a-ab06-c2db-21df-d98b20352e06,Influenza  seasonal  injectable  preservative free,synthea
+2020-12-20T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,b408bf28-592b-1a8b-b29a-d9d9243408fb,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-21T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,6d4b31f3-17f2-a730-9be8-3ff6a090c4d2,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-04-11T12:43:17Z,b510e4bd-5a4a-412e-b2bc-0226c1f389e3,1f3b2ba2-b708-96c7-9774-93edd7856e3c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-10-21T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,b6586663-73f7-af70-329f-17bff5c6a1a9,Influenza  seasonal  injectable  preservative free,synthea
+2012-10-21T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,b6586663-73f7-af70-329f-17bff5c6a1a9,Td (adult) preservative free,synthea
+2012-10-21T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,b6586663-73f7-af70-329f-17bff5c6a1a9,Hep A  adult,synthea
+2014-10-26T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,4e95d53f-6d4e-8866-39b8-323dcb1c9ebc,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-12T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,59867b11-5bc8-006c-351d-28e3a3f210a4,Influenza  seasonal  injectable  preservative free,synthea
+2016-10-30T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,c1657431-8a25-e50b-8b7c-68517cc1b978,Influenza  seasonal  injectable  preservative free,synthea
+2018-11-04T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,1a08d9ef-0e2b-94c5-f110-efdcd71b3136,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-11T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,2a0531a0-dbb8-6c09-b29d-fe8f654f5249,zoster,synthea
+2020-10-11T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,2a0531a0-dbb8-6c09-b29d-fe8f654f5249,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-25T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,6586e7fc-f5a3-97ff-7fc0-a1c9a6a0c710,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-08-15T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,b0a0eb16-0214-8af1-f864-9c739e484392,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-10-17T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,c452cce9-a6c1-35a2-d9f9-280451bbc92a,zoster,synthea
+2021-10-17T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,c452cce9-a6c1-35a2-d9f9-280451bbc92a,Influenza  seasonal  injectable  preservative free,synthea
+2021-10-17T17:39:03Z,5e9881d2-310b-e83f-205e-2f192283eb2c,c452cce9-a6c1-35a2-d9f9-280451bbc92a,Td (adult) preservative free,synthea
+2014-01-03T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,7289d127-da1f-20e3-2b68-d5d48643072f,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-03T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,7289d127-da1f-20e3-2b68-d5d48643072f,Hep A  adult,synthea
+2014-04-25T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,e6fafe83-8ae0-57f4-7b90-ed2417e9f35d,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-09T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,449ce48a-35b4-88c9-23c7-64e830a081cf,Influenza  seasonal  injectable  preservative free,synthea
+2015-01-09T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,449ce48a-35b4-88c9-23c7-64e830a081cf,Td (adult) preservative free,synthea
+2015-01-09T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,449ce48a-35b4-88c9-23c7-64e830a081cf,Hep A  adult,synthea
+2012-07-30T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,faa43511-a396-bbe1-f1a1-ddb44e185775,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-15T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,b3e298b5-c601-e4c1-3def-9e7af0852a9b,Influenza  seasonal  injectable  preservative free,synthea
+2013-08-05T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,40b45d5a-d52d-f425-d538-9a3b8faa7567,Influenza  seasonal  injectable  preservative free,synthea
+2017-01-20T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,7e442acf-8308-4a4c-a2dc-650fcf78915e,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-11T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,27283caf-dbd5-b627-bbbf-b1d5f5d2d572,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-11T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,27283caf-dbd5-b627-bbbf-b1d5f5d2d572,meningococcal MCV4P,synthea
+2015-08-17T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,e74187a6-c240-0e9a-4a98-7fd5edfd9afa,Influenza  seasonal  injectable  preservative free,synthea
+2016-08-22T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,f1c87ec7-31e0-e1a4-d719-b61d982fd5c7,Influenza  seasonal  injectable  preservative free,synthea
+2017-08-28T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,5093e04f-632d-71ca-1656-adb9cd539073,Influenza  seasonal  injectable  preservative free,synthea
+2018-01-26T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,2242ed92-5676-3eaa-ce8c-4bbad63e6687,Influenza  seasonal  injectable  preservative free,synthea
+2019-02-01T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,659d0152-e51d-c471-9c2b-6481ee18ea45,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-03T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,f0484313-d3e5-c0f4-fb67-97fbaa068877,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-03T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,f0484313-d3e5-c0f4-fb67-97fbaa068877,Hep B  adult,synthea
+2020-02-07T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,9db1233d-a532-fd38-7358-bd1522282be1,Influenza  seasonal  injectable  preservative free,synthea
+2021-02-12T17:11:38Z,f32d72a4-dec1-6fd5-1fc8-2ad546832886,b2eb0a1d-923f-8bc9-3f67-0dfc8b5e2cb0,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-09T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,9c0ccf06-6d8b-ae7e-8db8-998a73265d3d,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-09T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,9c0ccf06-6d8b-ae7e-8db8-998a73265d3d,Td (adult) preservative free,synthea
+2019-09-09T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,9c0ccf06-6d8b-ae7e-8db8-998a73265d3d,Hep B  adult,synthea
+2019-09-09T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,9c0ccf06-6d8b-ae7e-8db8-998a73265d3d,meningococcal MCV4P,synthea
+2020-09-14T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,7b3d1a4b-800b-c510-054d-acc903c546be,Influenza  seasonal  injectable  preservative free,synthea
+2020-09-14T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,7b3d1a4b-800b-c510-054d-acc903c546be,Hep B  adult,synthea
+2021-09-06T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,740c2865-5823-fc43-43a6-69aee88bc0f4,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-20T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,cce14d9c-af67-76b1-6871-7dfaf6eda0ec,Influenza  seasonal  injectable  preservative free,synthea
+2021-10-04T12:00:24Z,5513f689-1261-9da0-c7ea-79f059bb3c45,21bf62ca-6adb-57ec-880f-85aa45a8e15b,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-05-27T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,4f47e3a6-bfd4-22c2-031a-af240f3c6014,Influenza  seasonal  injectable  preservative free,synthea
+2012-05-27T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,4f47e3a6-bfd4-22c2-031a-af240f3c6014,HPV  quadrivalent,synthea
+2013-06-02T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,db4b3b4a-f587-c814-2bed-6034b4f72cb4,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-08T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,2025726e-7834-75f6-1742-07c0d5592d39,Influenza  seasonal  injectable  preservative free,synthea
+2015-06-14T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,1fa74c06-b528-090e-3c74-c9f41d7fa431,Influenza  seasonal  injectable  preservative free,synthea
+2015-06-14T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,1fa74c06-b528-090e-3c74-c9f41d7fa431,meningococcal MCV4P,synthea
+2012-01-24T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,89282cd0-887d-2682-2da5-47468b745a11,Influenza  seasonal  injectable  preservative free,synthea
+2012-01-24T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,89282cd0-887d-2682-2da5-47468b745a11,Hep A  adult,synthea
+2016-06-19T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,ff813c02-a38d-f13b-c377-0bad4856e22f,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-28T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,8d58a089-57bf-1866-6071-7d9883c88b03,Influenza  seasonal  injectable  preservative free,synthea
+2014-01-28T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,8d58a089-57bf-1866-6071-7d9883c88b03,Td (adult) preservative free,synthea
+2014-01-28T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,8d58a089-57bf-1866-6071-7d9883c88b03,Hep A  adult,synthea
+2016-02-02T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,0b132502-26fd-4b25-4bcc-2d05e5a3d817,Influenza  seasonal  injectable  preservative free,synthea
+2018-02-06T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,7a7e3de9-2057-cd8e-c7a1-5029c0344694,Influenza  seasonal  injectable  preservative free,synthea
+2020-02-11T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,ec93ae11-9e0e-b99c-fb3b-a3c64de14ce4,Influenza  seasonal  injectable  preservative free,synthea
+2021-09-14T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,22aea67e-eac7-8a42-7d1e-bcae6084da23,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-10-12T03:17:58Z,38593d49-cb8f-21e9-acea-3f9e9f268240,85fc0fba-9e15-cac2-e09c-fa00b9542379,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2017-06-25T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,e48a2dbf-7d73-bb37-d7ab-c9b982c77e80,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-01T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,6c49dd44-1063-3535-31d1-fb6f3e96ca1e,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-04T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,ae0e69b2-55ac-a571-a377-71ce8594a561,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-04T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,ae0e69b2-55ac-a571-a377-71ce8594a561,Td (adult) preservative free,synthea
+2021-07-04T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,ae0e69b2-55ac-a571-a377-71ce8594a561,Hep B  adult,synthea
+2021-07-04T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,ae0e69b2-55ac-a571-a377-71ce8594a561,meningococcal MCV4P,synthea
+2021-08-08T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,bd6ec135-80b4-4b18-1051-4652e8d0d631,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-05T19:52:32Z,f0ff07d8-1eb2-2e80-ff5b-bb394a5847ae,9ce38227-ff16-9261-053f-7fd6b453b17c,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-06-26T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,3a607b85-75c8-3504-1eb9-ef44c3ff3ec8,Influenza  seasonal  injectable  preservative free,synthea
+2013-07-02T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,f7a8849d-1fb2-5867-fe45-5789d965b096,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-08T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,7178a41c-ccc1-18ca-cd93-e959ba356726,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-14T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,a53ea785-371f-3324-11d7-1230b0e2af40,Influenza  seasonal  injectable  preservative free,synthea
+2016-07-19T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,227b0f64-87f6-272b-1ffa-8768750efedf,Influenza  seasonal  injectable  preservative free,synthea
+2017-07-25T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,c43a59dc-251a-396e-8a7a-c4fa912e7933,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-31T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,418ad640-e900-25b9-82ce-8977240a4491,Influenza  seasonal  injectable  preservative free,synthea
+2019-08-06T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,c1eb30d1-0f38-048d-a5e9-3f24bd87b5d1,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-11T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,fbcc4d02-dd83-48e0-0214-8ff429668fa6,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-11T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,fbcc4d02-dd83-48e0-0214-8ff429668fa6,Td (adult) preservative free,synthea
+2021-02-09T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,dabfedd4-d420-68df-7e89-c713bce29be0,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-03-09T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,87c7368f-718d-efb3-b5e2-88f21d6b9a73,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-08-17T02:37:44Z,349592ed-4cb2-96c6-4997-80973c2b2c8a,69f16734-5b25-6cbf-81f8-af7b6c2f220e,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-17T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,44525c6d-4d69-1fdf-5f45-347729518f91,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-17T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,44525c6d-4d69-1fdf-5f45-347729518f91,Td (adult) preservative free,synthea
+2013-03-23T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,5bbc1651-ef8a-76ca-62ba-534abc23def5,Influenza  seasonal  injectable  preservative free,synthea
+2013-08-24T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,2b817861-972b-88d4-7065-ccbad1b040af,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-04T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,419f5d05-1a56-c864-12b7-d03d40f52d8f,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-09T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,25ec0c0d-4d4d-b8a1-04d1-63527ab62c7d,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-09T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,25ec0c0d-4d4d-b8a1-04d1-63527ab62c7d,Pneumococcal conjugate PCV 13,synthea
+2017-03-25T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,ef90c468-b762-6e0e-bf89-4d9528a3979e,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-25T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,ef90c468-b762-6e0e-bf89-4d9528a3979e,pneumococcal polysaccharide vaccine  23 valent,synthea
+2018-04-21T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,3fff211a-6536-773a-05f1-1580c4d719a8,Influenza  seasonal  injectable  preservative free,synthea
+2019-04-27T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,d18d655c-2c77-7812-34de-c0c3e9cb4eb7,Influenza  seasonal  injectable  preservative free,synthea
+2020-05-02T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,7c846be5-b4ed-39e7-d049-279830aa6d72,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-20T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,76131867-1345-d76a-613c-a4cb368bc309,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-04-17T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,fe5def6a-37f6-0069-2277-9265d4a49904,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-05-08T01:22:30Z,cc11c9e3-eb67-301c-0f97-b9e88546de46,b22364b9-92ce-8fe8-a949-e3bb91ac9322,Influenza  seasonal  injectable  preservative free,synthea
+1998-10-20T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,73904ab4-7dd2-1ff8-0623-d89a676cde00,Influenza  seasonal  injectable  preservative free,synthea
+1999-10-26T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,a6a0db1b-5a23-06a9-c85b-1708344645c9,Influenza  seasonal  injectable  preservative free,synthea
+2000-10-31T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,f963656f-7937-f5a6-2b01-83f8213f584e,Influenza  seasonal  injectable  preservative free,synthea
+2001-11-06T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,380f91c2-827b-ff32-eadf-9d77980ef1f5,Influenza  seasonal  injectable  preservative free,synthea
+2002-07-16T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,4ea77441-7ede-a24c-343f-1d9767f5fd0d,Influenza  seasonal  injectable  preservative free,synthea
+2003-11-18T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,da0c778e-8038-f9e4-132b-e3e438450c6c,Influenza  seasonal  injectable  preservative free,synthea
+2004-11-23T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,3dcee335-c24c-69bb-26e9-2b2fa6187c10,Influenza  seasonal  injectable  preservative free,synthea
+2012-03-31T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,6f359790-6469-9ea9-2921-e3daf108ae2c,Influenza  seasonal  injectable  preservative free,synthea
+2013-04-06T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,ba754130-28db-2975-4642-0b5d074feb9d,Influenza  seasonal  injectable  preservative free,synthea
+2005-11-29T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,bff61756-2c82-f660-38fc-30fe538a40a3,Influenza  seasonal  injectable  preservative free,synthea
+2014-04-12T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,9bcb88af-b290-c397-9f3e-c15941a03f5a,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-18T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,e1aeddc4-d37e-0848-fbbc-c28fbd04d76b,Influenza  seasonal  injectable  preservative free,synthea
+2015-04-18T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,e1aeddc4-d37e-0848-fbbc-c28fbd04d76b,Hep B  adult,synthea
+2006-12-05T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,295a7f94-83dc-0e91-a074-c2bc4b213b25,Influenza  seasonal  injectable  preservative free,synthea
+2006-12-05T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,295a7f94-83dc-0e91-a074-c2bc4b213b25,Td (adult) preservative free,synthea
+2007-05-22T05:42:08Z,a54d5bf1-97d0-6708-18f5-6d1cd360f6a4,f19017b1-54e2-a9cb-00bb-be0abf02ea8a,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-23T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,0ff98799-56a4-8be9-60a1-e13568607e83,Influenza  seasonal  injectable  preservative free,synthea
+2016-04-23T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,0ff98799-56a4-8be9-60a1-e13568607e83,Td (adult) preservative free,synthea
+2016-04-23T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,0ff98799-56a4-8be9-60a1-e13568607e83,Hep B  adult,synthea
+2016-04-23T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,0ff98799-56a4-8be9-60a1-e13568607e83,meningococcal MCV4P,synthea
+2017-04-29T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,5b15daa4-5c94-e532-e8f9-8b22d0e2410f,Influenza  seasonal  injectable  preservative free,synthea
+2017-04-29T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,5b15daa4-5c94-e532-e8f9-8b22d0e2410f,Hep B  adult,synthea
+2018-05-05T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,5d468c25-c5b3-4ad5-8754-bacdcc74ba40,Influenza  seasonal  injectable  preservative free,synthea
+2019-05-11T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,8131937a-2837-da8a-504b-45d382c0a9c5,Influenza  seasonal  injectable  preservative free,synthea
+2020-05-16T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,ef47bc82-d735-1454-9eec-2ba6796d8a53,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-22T19:15:09Z,fac1d55e-1631-ce36-471a-74999b65d7d8,3a693b70-d671-db69-bc55-165dfd5389b5,Influenza  seasonal  injectable  preservative free,synthea
+2012-02-28T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,2754b07e-3171-b018-f8d6-c1c9a5b73501,Influenza  seasonal  injectable  preservative free,synthea
+2013-03-05T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,d1859b7c-0b1b-4099-f47d-da45d485c054,Influenza  seasonal  injectable  preservative free,synthea
+2014-03-11T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,71b3be8c-2ed3-22f7-40d2-3fad12b74fec,Influenza  seasonal  injectable  preservative free,synthea
+2015-03-17T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,10b50e18-e691-cfed-8083-d7498009ab57,Influenza  seasonal  injectable  preservative free,synthea
+2016-03-22T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,72b94ab6-23ed-dbe0-2695-317aa6a59df0,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-28T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,aea42c8f-93de-0bbc-a6ed-47e96720ccce,Influenza  seasonal  injectable  preservative free,synthea
+2018-04-03T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,70af7513-e033-2381-a3b0-ed7268a9921e,Influenza  seasonal  injectable  preservative free,synthea
+2019-04-09T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,c9e2ae95-340d-edea-f5d5-d1df9b844eb4,Influenza  seasonal  injectable  preservative free,synthea
+2020-04-14T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,fbd18d37-1235-70e3-00aa-b0cdf7806fca,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-30T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,d98a0f48-bdab-cae3-4674-eb3225520375,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-04-20T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,314ce65d-525f-4922-6d5e-7df92a21b850,Influenza  seasonal  injectable  preservative free,synthea
+2021-04-20T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,314ce65d-525f-4922-6d5e-7df92a21b850,Td (adult) preservative free,synthea
+2021-04-27T12:02:26Z,cd867d90-838b-1042-66cd-8cf6a458a694,f49499e4-ae19-5b77-f007-e0dd8703027d,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2014-10-11T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,e9c5dad4-cd64-034c-5766-17e55f61fac0,Influenza  seasonal  injectable  preservative free,synthea
+2017-10-14T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,a1e9399d-196c-49c8-7b39-dea334116253,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-01T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,775a933a-9217-e628-2544-c39c6025f135,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-01T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,775a933a-9217-e628-2544-c39c6025f135,Hep A  adult,synthea
+2021-01-23T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,2fc1f747-ebbd-2167-1231-76e2fb389d7f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-02-13T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,573a54f5-dec2-c60d-e210-838fd601b680,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-08-21T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,22617e2b-2557-ee4f-1e9e-b040060079fb,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-21T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,22617e2b-2557-ee4f-1e9e-b040060079fb,Td (adult) preservative free,synthea
+2021-08-21T14:45:28Z,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,22617e2b-2557-ee4f-1e9e-b040060079fb,Hep A  adult,synthea
+2012-12-14T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,59490bde-8b2d-fbed-13cb-5e467b83101c,Influenza  seasonal  injectable  preservative free,synthea
+2013-12-20T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,bef7af08-c3df-9604-cba9-f87deef9d0a5,Influenza  seasonal  injectable  preservative free,synthea
+2014-12-26T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,9fa4d06d-a26d-7993-b0df-e6bf40c5a8f9,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-01T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,b39e4f6d-3907-eee3-aee6-389cd688e120,Influenza  seasonal  injectable  preservative free,synthea
+2016-07-15T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,0775f9f9-a1ab-cc67-45c6-cd9fe7541735,Influenza  seasonal  injectable  preservative free,synthea
+2018-01-12T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,e624ccd5-38ed-ca96-bc9a-4d1396acf61a,Influenza  seasonal  injectable  preservative free,synthea
+2019-01-18T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,6bd68014-8fbd-04c3-298e-2146d2506a01,Influenza  seasonal  injectable  preservative free,synthea
+2019-01-18T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,6bd68014-8fbd-04c3-298e-2146d2506a01,Td (adult) preservative free,synthea
+2020-01-24T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,44185e49-509f-6b1f-b653-28bb330f0fbd,Influenza  seasonal  injectable  preservative free,synthea
+2021-01-29T08:37:16Z,7a51c596-9735-1334-5d7c-d66f0c37a5e6,0e2b7dee-a081-d06f-ff7c-e0c064526e45,Influenza  seasonal  injectable  preservative free,synthea
+2012-08-09T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,25232a9c-01e1-c4a1-eb9e-0ea0ded4372a,Influenza  seasonal  injectable  preservative free,synthea
+2013-08-15T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,97d20653-f12c-b716-9435-73b8c14cb13e,Influenza  seasonal  injectable  preservative free,synthea
+2014-08-21T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,77d7c62e-122d-9b51-2536-c179aa50682f,Influenza  seasonal  injectable  preservative free,synthea
+2015-08-27T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,6d9d55b0-ef2c-d795-8005-fe55e39b8f71,Influenza  seasonal  injectable  preservative free,synthea
+2015-08-27T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,6d9d55b0-ef2c-d795-8005-fe55e39b8f71,Td (adult) preservative free,synthea
+2016-09-01T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,7bf9cefb-a8b4-dca8-261d-2aa3a7814a79,Influenza  seasonal  injectable  preservative free,synthea
+2017-09-07T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,4c7fcfb5-ca83-09f6-4e2c-7fae5498ed5c,Influenza  seasonal  injectable  preservative free,synthea
+2018-09-13T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,9f068518-4242-334b-06f0-282444b3c534,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-19T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,230d8f40-10e4-7f0b-20f3-88e2ddfd8269,Influenza  seasonal  injectable  preservative free,synthea
+2019-09-19T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,230d8f40-10e4-7f0b-20f3-88e2ddfd8269,Pneumococcal conjugate PCV 13,synthea
+2020-09-24T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,13cbea27-cfc3-593f-e932-3f51d749cc54,Influenza  seasonal  injectable  preservative free,synthea
+2020-09-24T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,13cbea27-cfc3-593f-e932-3f51d749cc54,pneumococcal polysaccharide vaccine  23 valent,synthea
+2021-03-18T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,8025d9d5-e373-cd9d-ee72-d307ee2b69cd,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-04-15T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,f5567934-48a4-ec65-0a70-a26c36c74a21,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-30T07:31:31Z,f6d644f6-2a63-50f4-7664-54242a79d7b6,69721d45-d2fc-581f-b9af-4052cbc1ebca,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-20T05:36:13Z,32985852-4c23-32ba-baa6-1b0d7c7ea1c6,f379b225-028b-0379-b37b-c3e6faf932d9,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-09-17T05:36:13Z,32985852-4c23-32ba-baa6-1b0d7c7ea1c6,fe899c63-d8be-6870-79b4-4aef4c415c95,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2012-12-31T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,ba167b47-f6a8-ba34-d349-c0ab14e47d59,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-04T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,1b51fdf8-c52b-cff2-3a4a-af9564fa660e,Influenza  seasonal  injectable  preservative free,synthea
+2016-01-04T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,1b51fdf8-c52b-cff2-3a4a-af9564fa660e,Td (adult) preservative free,synthea
+2019-01-07T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,4df1b725-fa1b-547a-9d30-70db93aa0b26,Influenza  seasonal  injectable  preservative free,synthea
+2020-02-17T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,2f235761-fea5-0582-e7f2-b95e65706645,Influenza  seasonal  injectable  preservative free,synthea
+2020-02-24T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,7bfbe0ea-7046-bdd2-c769-cba722bedecb,Influenza  seasonal  injectable  preservative free,synthea
+2021-08-16T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,c59ea7ec-b135-d93a-9548-a55be5a8364f,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2013-06-30T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,fbd3aadb-2757-5cc6-0e89-ca599c898e66,Influenza  seasonal  injectable  preservative free,synthea
+2013-06-30T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,fbd3aadb-2757-5cc6-0e89-ca599c898e66,Td (adult) preservative free,synthea
+2021-09-13T19:20:51Z,c88cb2a0-89ba-2062-c9f9-8d9fb11494b9,0c91264a-54e2-b168-c075-45758801392b,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2016-07-03T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,becfce05-e73c-18fb-7be3-2672bf5947e1,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-07T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,2c4d6cbc-2875-b41a-3e3f-835327bac3d0,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-18T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,5be3e337-3dba-1df4-f1ce-4d1e6b0a72cf,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-08-08T22:32:18Z,cce2cd36-267d-a405-8222-0c4511ae8ac9,de2e131f-4e18-694e-0a10-dad4e478f44a,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-06-16T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,99af442a-b361-11f4-4b34-7eb686e5ad5e,Influenza  seasonal  injectable  preservative free,synthea
+2013-06-22T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,a5ea15d1-b832-6883-0691-2a2b25341c12,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-28T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,df143094-3f43-be7f-33ba-f206d065f6c0,Influenza  seasonal  injectable  preservative free,synthea
+2014-06-28T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,df143094-3f43-be7f-33ba-f206d065f6c0,Hep A  adult,synthea
+2015-07-11T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,ccd3c4c1-90aa-1256-67ed-c1363d775230,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-11T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,ccd3c4c1-90aa-1256-67ed-c1363d775230,Td (adult) preservative free,synthea
+2015-07-11T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,ccd3c4c1-90aa-1256-67ed-c1363d775230,Hep A  adult,synthea
+2016-07-16T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,afd8cf1f-f9b5-13a8-af72-c9c4dda15906,Influenza  seasonal  injectable  preservative free,synthea
+2017-07-22T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,452f0880-ab86-50ea-0b6c-8107d8e0e4c9,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-28T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,20260904-360a-9284-665b-f8345e92ed0a,Influenza  seasonal  injectable  preservative free,synthea
+2019-08-03T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,6857c510-23c6-aed7-5032-5a3853d91498,Influenza  seasonal  injectable  preservative free,synthea
+2020-08-08T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,3a2f6706-63d6-8ebd-42f4-84c5758e659c,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-15T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,91bf102d-5908-9194-e2f0-26fd2f6cc9a5,SARS-COV-2 (COVID-19) vaccine  vector non-replicating  recombinant spike protein-Ad26  preservative free  0.5 mL,synthea
+2021-08-14T12:34:45Z,f8df8f16-95df-dc44-aaf0-60e56ca708ee,bc79331f-f1d6-7cc5-db86-c5c880843c86,Influenza  seasonal  injectable  preservative free,synthea
+2012-10-22T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,1942312a-6558-ce82-c4e9-19ef00ef34ff,Influenza  seasonal  injectable  preservative free,synthea
+2013-10-28T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,61dd11a4-3982-8431-dbeb-f4071315420f,Influenza  seasonal  injectable  preservative free,synthea
+2014-11-03T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,2512daeb-be5c-f566-ad26-f602511a46f7,Influenza  seasonal  injectable  preservative free,synthea
+2015-11-09T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,6bd6237a-d62b-ed01-6094-a1ceb1e25589,Influenza  seasonal  injectable  preservative free,synthea
+2016-11-14T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,6f7f5e57-dcf9-52c4-36d9-f1679b411f6f,Influenza  seasonal  injectable  preservative free,synthea
+2017-11-20T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,ede036dc-ccd3-8207-abf1-1e346c209233,Influenza  seasonal  injectable  preservative free,synthea
+2018-11-26T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,a47fbc85-8cda-78d8-265f-94d73c3b7368,Influenza  seasonal  injectable  preservative free,synthea
+2019-12-02T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,9fd49e44-be57-a793-de08-d18b77896df1,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-26T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,1a982f39-111d-a820-a670-eeb25d57ab35,Influenza  seasonal  injectable  preservative free,synthea
+2020-10-26T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,1a982f39-111d-a820-a670-eeb25d57ab35,Td (adult) preservative free,synthea
+2021-05-10T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,b0544e00-5528-7666-e993-38abbfdf1313,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-31T13:27:05Z,67f2d0f0-a02d-8178-a01f-924f38a95a3c,8c888d24-93d6-8f1f-2581-0d43b3d67d51,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2014-02-17T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,419884e6-1943-7968-13f7-585d6ea64e8e,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-23T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,149295e6-57ed-6c46-2ee3-a28ff96358f0,Influenza  seasonal  injectable  preservative free,synthea
+2015-02-23T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,149295e6-57ed-6c46-2ee3-a28ff96358f0,Td (adult) preservative free,synthea
+2016-02-29T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,d43e2dce-a5b7-289b-766f-fa4dca956d04,Influenza  seasonal  injectable  preservative free,synthea
+2017-03-06T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,565042d3-2d93-60da-db3e-8fd8d5ca0691,Influenza  seasonal  injectable  preservative free,synthea
+2018-03-12T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,7728809f-3973-a6a9-fe13-2fc9548e5580,Influenza  seasonal  injectable  preservative free,synthea
+2019-03-18T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,31b75fa7-f860-14b7-9a73-9c39d12e3808,Influenza  seasonal  injectable  preservative free,synthea
+2020-03-23T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,8f8ed9c2-6d25-d987-da74-483c2af1f090,Influenza  seasonal  injectable  preservative free,synthea
+2021-03-29T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,b1b76c6e-f5f6-050a-4a9a-aaf7ee182ac9,Influenza  seasonal  injectable  preservative free,synthea
+2021-05-03T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,9ba21b85-de57-6d2a-1e6f-46369a053e79,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2021-05-24T08:51:55Z,9e0cf676-20ee-bd68-00fc-c9c1af6c33fc,fe7c3fe3-abce-0907-f8dc-57bbab402063,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose,synthea
+2012-05-15T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,82387556-bf2e-b36b-536e-cb36629cf7b7,Influenza  seasonal  injectable  preservative free,synthea
+2013-05-21T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,4e3018f9-3e8b-26fc-0f61-6de70ebf9cb4,Influenza  seasonal  injectable  preservative free,synthea
+2014-05-27T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,809b16f1-634c-438f-389a-0c7169ac71d8,Influenza  seasonal  injectable  preservative free,synthea
+2015-06-02T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,1f40a31e-241a-9ac1-49e7-bb8fc3485b95,Influenza  seasonal  injectable  preservative free,synthea
+2016-06-07T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,dcee67dc-abd0-32a4-dc35-34fe4b531817,Influenza  seasonal  injectable  preservative free,synthea
+2017-06-13T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,5533fe9e-1c53-72d7-9e2f-95d956065d35,Influenza  seasonal  injectable  preservative free,synthea
+2017-06-13T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,5533fe9e-1c53-72d7-9e2f-95d956065d35,Td (adult) preservative free,synthea
+2018-06-19T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,c4901d6b-5f08-60db-5b36-db74f91b36ca,Influenza  seasonal  injectable  preservative free,synthea
+2019-06-25T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,1e4e5dc2-646f-e575-8ec5-f2389a3a95b1,Influenza  seasonal  injectable  preservative free,synthea
+2020-06-30T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,3a0ce1a2-4a37-36fe-ae21-8d2cacb2d216,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-06T05:42:08Z,80a20405-053c-9419-1cc3-0046c1589cf1,8ffe07e0-ae09-411d-ca73-6ccc955191b9,Influenza  seasonal  injectable  preservative free,synthea
+2012-07-07T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,2fa5fc2e-cda9-c539-931a-847e202b70f7,Influenza  seasonal  injectable  preservative free,synthea
+2013-07-06T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,fde33416-b32c-a6b3-4c22-8d019b7b8dfa,Influenza  seasonal  injectable  preservative free,synthea
+2014-07-26T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,795756fd-28d8-79b8-5933-d03841c37947,Influenza  seasonal  injectable  preservative free,synthea
+2015-07-18T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,9455acfb-a2ff-7c4a-5c1b-5a6e2837aeb5,Influenza  seasonal  injectable  preservative free,synthea
+2016-07-09T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,33c38f34-1a7e-ed9c-2a2e-e2361d29d275,Influenza  seasonal  injectable  preservative free,synthea
+2017-07-08T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,d06954f6-6112-2fbd-f0e1-674680e96409,Influenza  seasonal  injectable  preservative free,synthea
+2018-07-07T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,1e609fae-3230-28b8-5f83-01f8d6b50ab2,Influenza  seasonal  injectable  preservative free,synthea
+2019-07-06T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,52f6b15a-3a4b-b104-16bb-6370b2edfedd,Influenza  seasonal  injectable  preservative free,synthea
+2020-01-04T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,3b5fd63d-5ce5-1d40-b05c-8879d90d3f96,Td (adult) preservative free,synthea
+2020-07-04T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,1e74b3d6-4ef1-941d-3234-50be80f48cba,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-03T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,2570e5e4-4fd8-60dd-8d0b-9d91ae163622,Influenza  seasonal  injectable  preservative free,synthea
+2021-07-17T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,c9f38e26-97cc-38ab-30d4-bb8e1a4493b5,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2021-08-14T10:26:51Z,9541c1fb-fa3e-299c-60f2-25756c196904,cc51d759-4686-2d5a-bf50-d0846c171a86,SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose,synthea
+2007-09-27,1032702,,DTaP-hepatitis B and poliovirus vaccine,fihr
+2011-01-27,1032702,,"poliovirus vaccine, unspecified formulation",fihr
+2011-05-27,1032702,,"poliovirus vaccine, unspecified formulation",fihr
+2007-05-24,1032702,,"rotavirus, live, pentavalent vaccine",fihr
+2010-03-11,1614502,,"measles, mumps and rubella virus vaccine",fihr
+2010-06-11,1614502,,"measles, mumps and rubella virus vaccine",fihr
+2010-09-09,880378,,"HPV, unspecified formulation",fihr
+2009-03-01,880378,,"meningococcal oligosaccharide (groups A, C, Y and W-135) diphtheria toxoid conjugate vaccine (MCV4O)",fihr
+2011-03-11,880378,,"hepatitis B vaccine, adult dosage",fihr
+2009-03-11,1134281,,varicella virus vaccine,fihr
+2005-11-11,1134281,,hepatitis A and hepatitis B vaccine,fihr
+2011-09-20,8888801,,Flu Vaccine,fihr
+2011-09-20,8888801,,TdaP,fihr
+2012-04-20,8888801,,Pneumonia Vaccine,fihr
+2012-08-15,8888801,,Zostavax,fihr
+2010-04-12,8888802,,Pneumonia Vaccine,fihr
+2010-10-15,8888802,,Flu Vaccine,fihr
+2011-10-26,8888802,,Flu Vaccine,fihr
+2012-11-06,8888802,,Flu Vaccine,fihr
+2012-05-07,8888803,,TdaP,fihr
+2010-09-17,8888803,,Flu Vaccine,fihr
+2011-11-04,8888803,,Flu Vaccine,fihr
+2012-12-15,8888803,,Flu Vaccine,fihr
+2011-07-12,8888804,,TdaP,fihr
+2012-01-17,8888804,,Flu Vaccine,fihr
+2012-01-17,8888804,,Zostavax,fihr
+2012-11-09,8888804,,Flu Vaccine,fihr
+2010-05-12T04:00:00Z,99912345,,"typhoid, oral",fihr

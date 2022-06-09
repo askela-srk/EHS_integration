@@ -1,0 +1,57 @@
+1.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX kdi:<http://knowdive.disi.unitn.it/etype#> 
+select ?person ?first_name ?last_name ?description ?condition where
+{ 
+    ?location kdi:has_city_GID-44481_Type-779 "Boston" .
+    ?person kdi:has_location_GID-779_Type-118 ?location .
+    ?person rdf:type kdi:Patient_GID-55936 .
+    ?condition kdi:has_patient_of_condition_GID-55936_Type-74736 ?person .
+   
+    ?person kdi:has_firstname_GID-34006_Type-118 ?first_name .
+    ?person kdi:has_lastname_GID-34003_Type-118 ?last_name .
+    ?condition kdi:has_condition_description_GID-300008_Type-74736 ?description .
+    
+
+}
+	
+
+
+
+
+2.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX kdi:<http://knowdive.disi.unitn.it/etype#> 
+select ?description ?patient ?birth_date ?age ?treatment where
+{ 
+    ?condition kdi:has_condition_description_GID-300008_Type-74736 ?description .
+    filter(lcase(str(?description)) = "covid-19")
+    
+    ?condition kdi:has_patient_of_condition_GID-55936_Type-74736 ?patient .
+    ?patient kdi:has_birth_date_GID-81257_Type-118 ?birth_date .
+    bind( year(NOW())-year(?birth_date) as ?age )
+    filter(?age >= 45)
+   
+    ?prescription kdi:has_patient_of_prescription_GID-55936_Type-22034 ?patient .
+    ?prescription kdi:has_treatment_description_GID-300004_Type-22034 ?treatment
+} 
+
+
+
+
+3.
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX kdi:<http://knowdive.disi.unitn.it/etype#> 
+select DISTINCT ?hospital ?hospital_name (COUNT(?hospital_name) as ?total)  where
+{ 
+    ?condition kdi:has_condition_description_GID-300008_Type-74736 ?description .
+    filter((lcase(str(?description)) = "covid-19"))
+    
+    ?condition kdi:has_been_identified_during_GID-45306_Type-74736 ?encounter.
+    ?encounter kdi:has_doctor_GID-53621_Type-45306 ?doctor .
+    ?doctor kdi:has_hospital_GID-43695_Type-53621 ?hospital .
+	?hospital kdi:has_hospital_name_GID-2_Type-43695 ?hospital_name .
+} group by ?hospital ?hospital_name

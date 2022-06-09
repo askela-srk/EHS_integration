@@ -1,0 +1,81 @@
+START,STOP,PATIENT,ENCOUNTER,allergy_description,condition,allergy,datast
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Mold (organism),Nose running,T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,House dust mite (organism),no visible coniditon,T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Tree pollen (substance),no visible condition,T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Wheat (substance),no visible condition,T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Tree nut (substance),Anaphylaxis (disorder),T,synthea
+2021-08-04,,febdc561-cc05-3074-7c1b-4fb34996c5f4,9d9e9f2b-2d09-0953-0575-894082d056e5,Peanut (substance),Allergic angioedema (disorder),T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,Mold (organism),no visible condition,T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,House dust mite (organism),no visible condition,T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,Animal dander (substance),Cough (finding),T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,Grass pollen (substance),no visible condition,T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,Cow's milk (substance),no visible condition,T,synthea
+2005-08-30,,838b0c7f-8a41-1350-f72a-d8ea0d35bf3e,5aad8937-4a14-e5c7-8479-25fab888194b,Tree nut (substance),Eruption of skin (disorder),T,synthea
+2017-10-13,,64352ca5-2241-e4f6-f5a1-2d8d64605931,88b05113-46ea-f35b-de38-e4450bc90292,Aspirin,Abdominal pain (finding),T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Latex (substance),no visible condition,T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Bee venom (substance),Eruption of skin (disorder),T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Mold (organism),no visible condition,T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,House dust mite (organism),no visible condition,T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Grass pollen (substance),no visible condition,T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Tree pollen (substance),no visible condition,T,synthea
+1947-06-20,,c8db643d-a1cb-7f89-aed8-53f7ecfc8c07,977cfd07-9b87-7699-4651-09e8b1a48a05,Penicillin V,Eruption of skin (disorder),T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,Mold (organism),Allergic skin rash,T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,House dust mite (organism),no visible condition,T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,Tree pollen (substance),no visible condition,T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,Wheat (substance),no visible condition,T,synthea
+2015-04-26,,e27224aa-66ff-f34a-7032-1d67c63d13e8,841d4a99-1f35-07ef-2c86-f6d5124518a4,Tree nut (substance),Anaphylaxis (disorder),T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Mold (organism),no visible condition,T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,House dust mite (organism),no visible condition,T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Grass pollen (substance),no visible condition,T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Tree pollen (substance),no visible condition,T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Lisinopril,Cough (finding),T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Aspirin,Wheal (finding),T,synthea
+1981-12-22,,d5f53e31-63a5-629a-c9ff-429f3c11af9e,c015a447-a062-42f5-8584-13e46820856b,Tree nut (substance),Anaphylaxis (disorder),T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Latex (substance),Wheal (finding),T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Bee venom (substance),Eruption of skin (disorder),T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Mold (organism),no visible condition,T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,House dust mite (organism),no visible condition,T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Grass pollen (substance),no visible condition,T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Tree pollen (substance),no visible condition,T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Lisinopril,no visible condition,T,synthea
+2007-11-20,,a43ba4e0-f4cf-b4a7-d737-65e93be70104,a7cce9be-5301-9427-ab60-251d95834b0c,Eggs (edible) (substance),no visible condition,T,synthea
+2003-09-26,,7495d723-0e21-ab68-1daa-ca4108b04067,9c17710a-1d93-ea9d-6d92-abf1eac51045,Latex (substance),Wheal (finding),T,synthea
+2003-09-26,,7495d723-0e21-ab68-1daa-ca4108b04067,9c17710a-1d93-ea9d-6d92-abf1eac51045,Mold (organism),Allergic skin rash,T,synthea
+2003-09-26,,7495d723-0e21-ab68-1daa-ca4108b04067,9c17710a-1d93-ea9d-6d92-abf1eac51045,Animal dander (substance),Rhinoconjunctivitis (disorder),T,synthea
+2003-09-26,,7495d723-0e21-ab68-1daa-ca4108b04067,9c17710a-1d93-ea9d-6d92-abf1eac51045,Wheat (substance),no visible condition,T,synthea
+2003-09-26,,7495d723-0e21-ab68-1daa-ca4108b04067,9c17710a-1d93-ea9d-6d92-abf1eac51045,Shellfish (substance),Allergic angioedema (disorder),T,synthea
+1999-03-25,,5513f689-1261-9da0-c7ea-79f059bb3c45,8e45e429-cfb5-11b4-09bc-ff59bec9da68,Shellfish (substance),Allergic angioedema (disorder),T,synthea
+2002-04-15,,526b0fd1-f0c4-48e3-1ccb-5ff1d10771a5,4eba3689-09c7-8516-f76e-88090cb7d3db,Penicillin V,no visible condition,T,synthea
+1978-08-21,,7a51c596-9735-1334-5d7c-d66f0c37a5e6,285322a5-6f4d-7e9a-8d36-31146329c6fc,Mold (organism),Allergic skin rash,T,synthea
+1985-10-09,,cce2cd36-267d-a405-8222-0c4511ae8ac9,51580962-89c9-bcac-872a-a151acf7a9a5,Mold (organism),Nose running,T,synthea
+1985-10-09,,cce2cd36-267d-a405-8222-0c4511ae8ac9,51580962-89c9-bcac-872a-a151acf7a9a5,House dust mite (organism),no visible condition,T,synthea
+1985-10-09,,cce2cd36-267d-a405-8222-0c4511ae8ac9,51580962-89c9-bcac-872a-a151acf7a9a5,Animal dander (substance),Wheal (finding),T,synthea
+1985-10-09,,cce2cd36-267d-a405-8222-0c4511ae8ac9,51580962-89c9-bcac-872a-a151acf7a9a5,Grass pollen (substance),no visible condition,T,synthea
+1985-10-09,,cce2cd36-267d-a405-8222-0c4511ae8ac9,51580962-89c9-bcac-872a-a151acf7a9a5,Tree pollen (substance),no visible condition,T,synthea
+1985-06-12,,67f2d0f0-a02d-8178-a01f-924f38a95a3c,b0d95734-10bd-9615-40a4-94262a4d6911,Bee venom (substance),no visible condition,T,synthea
+1985-06-12,,67f2d0f0-a02d-8178-a01f-924f38a95a3c,b0d95734-10bd-9615-40a4-94262a4d6911,Mold (organism),no visible condition,T,synthea
+1985-06-12,,67f2d0f0-a02d-8178-a01f-924f38a95a3c,b0d95734-10bd-9615-40a4-94262a4d6911,Grass pollen (substance),no visible condition,T,synthea
+1985-06-12,,67f2d0f0-a02d-8178-a01f-924f38a95a3c,b0d95734-10bd-9615-40a4-94262a4d6911,Penicillin V,no visible condition,T,synthea
+2000,,621799,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,621799,,peanut,Anaphylaxis,T,fihr
+2000,,897185,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,897185,,peanut,Anaphylaxis,T,fihr
+2000,,1137192,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,1288992,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,1551992,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,1685497,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,1685497,,peanut,Anaphylaxis,T,fihr
+2000,,2169591,,sulfonamide antibacterial,skin rash,T,fihr
+2000,,2169591,,peanut,Anaphylaxis,T,fihr
+2013,,8888801,,Erythromycin,Pruritic rash ,T,fihr
+2013,,8888802,,lisinopril 20mg,Cough,T,fihr
+2013,,8888802,,dust,Allergic asthma,T,fihr
+2013,,8888802,,tree pollens,Allergic asthma,T,fihr
+2013,,8888802,,shrimp,Anaphylaxis,T,fihr
+2013,,8888803,,Latex,Allergic contact dermatitis,T,fihr
+2013,,8888803,,Ciprofloxacin,Vomiting,T,fihr
