@@ -46,7 +46,7 @@ After filtering on the data level the following numbers of instances were obtain
 <br>
 <br>
 
-### ETG generation and  
+### ETG generation and data integration
  
 We started by using the predefined ontology adapted for the iTelos methodology. This ontology template was then was imported into Protégé. 
 
@@ -74,5 +74,29 @@ had to be added, a more abstract concept could have been selected as a synonym. 
 to preserve exactness and expend the UKC resource, new concepts were placed.
 <br>
 This procedure resulted in a fully formal ETG. Its structure is shown below:
-![](Images/structure_ETG.png)
+<br>
+<img src="Images/structure_ETG.png" width="300" align="center">
+<br>
+On the data level, the three datasets were joined using LibreOffice and command-line tools. All of the column
+names were renamed in such way to represent the same things. Each instance of each eType
+has been appended with a string value denoting which dataset it is originating from. For all
+eTypes all object and data properties were present, exepct for familyHistory of Patient eType.
+Due to a very low number of instances, it was decided for it to be removed from downstream
+integration since it will cause sparsity. We then resolved all data type and format misalignments amont the datasets. All of our
+simulated data was in English, therfore no language misalignments existed. After these steps, we have nine separete csv tables each
+representing an eType with its properties.
+<br>
+
+
+All nine csv files describing our eTypes and their properties have been uploaded to Karmalinker.
+As the ontology, the ETG given by KOS was used. Prior to entity matching, some leftover syntactic issues
+had to be solved:
+- All date formats in all files have been converted to ISO format. Now all properties of all
+eTypes have the same data types across datasets.
+- IDs were assigned to the following eTypes: Allergy, Condition, Prescription, LabResult and
+Immunization. This was simply done by assigning unique integer values to each instance
+of the mentioned eTypes.
+<br>
+These modification made possible to preform entity aligning. No errors or difficulties were
+came across during this procedure. Since this project deals with simulated data, no entity matching had to be done. After integrating our data successfully, the knowledge graph is ready to be utilized in NeoJ4’s Graphdb by answering some questions similiar to our initial CQs.
 
