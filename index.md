@@ -24,25 +24,55 @@ This solution can potentially be used in clinics, pharmacies, hospitals and rese
 <br>
 <br>
 
-### ER description
+### ER generation and data filtering 
 
-- Core eTypes are green, common ones in blue and contextual ones in red.
-
-<br>
-
-- This diagram was defined by looking at the available data, the project’s purpose and the competency questions. However, this procedure made us rethink about all the possible competency questions our solutions can provide an answer to, therefore we decided expand. Doing this allowed us to incorporate a larger amount of diverse data while still maintaining sparsity at a fairly low level.
+Core eTypes are green, common ones in blue and contextual ones in red.
 
 <br>
 
-- We introduced the Person eType in order to avoid redundancy of defining basic information about our personas (Doctor and Patient). Both of these eTypes extend the eType Person with additional properties unique to them. Moreover, we changed the eType Allergy to be an extension of the eType Condition. Initially, there were two distinct eTypes due to the fact that they were categorized differently in our initial datasets. However, after observing that these entities share all attributes we connected them via IS-A relationship.
+This diagram was defined by looking at the available data, the project’s purpose and the competency questions. However, this procedure made us rethink about all the possible competency questions our solutions can provide an answer to, therefore we decided expand. Doing this allowed us to incorporate a larger amount of diverse data while still maintaining sparsity at a fairly low level.
+
+<br>
+
+We introduced the Person eType in order to avoid redundancy of defining basic information about our personas (Doctor and Patient). Both of these eTypes extend the eType Person with additional properties unique to them. Moreover, we changed the eType Allergy to be an extension of the eType Condition. Initially, there were two distinct eTypes due to the fact that they were categorized differently in our initial datasets. However, after observing that these entities share all attributes we connected them via IS-A relationship.
 
 ![](Images/ER.png)
 
 <br>
 
-- After filtering on the data level the following numbers of instances were obtained: 
+After filtering on the data level the following numbers of instances were obtained: 
 
 ![](Images/data_level_filtering.png)
+<br>
+<br>
 
+### ETG generation and  
+ 
+We started by using the predefined ontology adapted for the iTelos methodology. This ontology template was then was imported into Protégé. 
 
+<br>
+
+Only minor differences have been made with comparison to what was the output of the informal modelling phase:
+
+- The eTypes Person_refined and Location_refined have been added to provide extensions to the Person_GID-118, Location_GID-132 eTypes already existing in the template.These were added as subclasses.
+
+- Due to the limited number of data types allowed to be used in the template (defined by the
+course), the data property familyHistory of Patient was changed to String type. All of the
+other data and object properties have been preserved compared to the output of informal modelling phase.
+- It should be noted that both reverse relationship have not been placed nor the cardinalities.
+In all cases where exists an one-to-many relationship, only the side where Domain(Many)-to-Range(one) is modeled.
+ETypes that have an ISA property have been modeled as a subclass of the more abstract EType.
+
+<br>
+
+Next, we uploaded the base-schema to KOS in order to integrate it with the framework
+ontology provided by UKC (a multilingual lexico-semantic resource - Universal Knowledge
+Core).
+Here,during the language alignment process, a number of eTypes and especially data properties
+was not found in the UKC - therefore they had to be added. In many cases where the concept
+had to be added, a more abstract concept could have been selected as a synonym. However,
+to preserve exactness and expend the UKC resource, new concepts were placed.
+<br>
+This procedure resulted in a fully formal ETG. Its structure is shown below:
+![](Images/structure_ETG.png)
 
