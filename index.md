@@ -20,7 +20,7 @@ This solution can potentially be used in clinics, pharmacies, hospitals and rese
 - [EMRBOTS](http://www.emrbots.org) - 100 patients
 - [FHIR SMART data](https://github.com/smart-on-fhir/sample-patients) - 67 patients
 
-- All datasets have been retrieved in csv format. They vaired greatly in the number of object and data properties with Synthea being the richest one and FHIR SMART data being the poorest one. These datasets have all been synthetically generated, therefore there was no need for anonymization.
+All datasets have been retrieved in csv format. They vaired greatly in the number of object and data properties with Synthea being the richest one and FHIR SMART data being the poorest one. These datasets have all been synthetically generated, therefore there was no need for anonymization.
 <br>
 <br>
 
@@ -93,9 +93,7 @@ As the ontology, the ETG given by KOS was used. Prior to entity matching, some l
 had to be solved:
 - All date formats in all files have been converted to ISO format. Now all properties of all
 eTypes have the same data types across datasets.
-- IDs were assigned to the following eTypes: Allergy, Condition, Prescription, LabResult and
-Immunization. This was simply done by assigning unique integer values to each instance
-of the mentioned eTypes.
+- IDs were assigned to the following eTypes: Allergy, Condition, Prescription, LabResult and Immunization. This was simply done by assigning unique integervalues to each instance of the mentioned eTypes.
 <br>
 These modification made possible to preform entity aligning. No errors or difficulties were
 came across during this procedure. Since this project deals with simulated data, no entity matching had to be done. After integrating our data successfully, the knowledge graph is ready to be utilized in NeoJ4’s Graphdb by answering some questions similiar to our initial CQs.
